@@ -1,0 +1,1 @@
+1- corrigir o downloads que está salvando numa nova pasta 'data' dentro de jupyter

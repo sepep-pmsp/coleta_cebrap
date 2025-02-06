@@ -1,3 +1,4 @@
+import os
 import geopandas as gpd
 from geopandas import GeoSeries, GeoDataFrame
 from os import makedirs
@@ -6,11 +7,15 @@ import pyproj
 
 def save_parquet(
     gdf:gpd.GeoDataFrame,
-    data_path:str, 
     fname:str,
     data_subpath:str='',
     **kwargs
 ) -> None:
+
+    project_path = os.path.abspath(os.path.join(os.getcwd(), '..', '..'))
+    data_path = os.path.join(project_path, 'data')
+
+
     
     full_path = join(data_path, data_subpath)
     if not exists(full_path):

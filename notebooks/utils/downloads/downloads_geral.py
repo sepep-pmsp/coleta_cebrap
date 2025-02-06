@@ -1,3 +1,8 @@
+import sys
+import os
+diretorio_atual = os.getcwd()
+sys.path.append(os.path.join(diretorio_atual, '..', '..'))
+
 import geopandas as gpd
 import pandas as pd
 from os.path import join, exists, abspath
@@ -9,6 +14,8 @@ from logging import (
 import requests
 from time import sleep
 import shutil
+
+from utils import save_parquet
 
 def read_zip_file(name_cache:str, logger:Logger=getLogger()):
                 gdf= gpd.read_file(
@@ -64,7 +71,10 @@ def download_to_temporary_cache(
             
 def _prepare_cache_single(url:str, name_feature:str, logger:Logger=getLogger()) -> gpd.GeoDataFrame:
 
-    file_dir = join('data', 'cache')
+    project_path = os.path.abspath(os.path.join(os.getcwd(), '..', '..'))
+    data_path = os.path.join(project_path, 'data')
+
+    file_dir = join(data_path, 'cache')
     file_path = join(file_dir, name_feature + '.zip')
     gdf={}
     temporary_cache = join(file_dir,'temporary_cache')
@@ -88,7 +98,7 @@ def _create_paginated_url(url:str, max_features:int, start_index:str)->str:
 
 def _prepare_cache_paginated(url:str, name_feature:str, logger:Logger=getLogger(), max_features=2000) -> gpd.GeoDataFrame:
 
-     geodfs = []
+    geodfs = []
     
     start_index=0
     page=1
@@ -107,11 +117,15 @@ def _prepare_cache_paginated(url:str, name_feature:str, logger:Logger=getLogger(
         page+=1
     
     df = pd.concat(geodfs)
+
+    save_parquet(df, f'{name_feature}_concat', 'cache')
+    
+    
     
     return gpd.GeoDataFrame(df)
 
 
-def _prepare_cache(url:str, name_feature:str, logger:Logger=getLogger(), paginate=False, max_features=2000) -> gpd.GeoDataFrame:
+def _prepare_cache(url:str, name_feature:str, paginate=False, logger:Logger=getLogger(), max_features=2000) -> gpd.GeoDataFrame:
 
     #early return para quando nao faz sentido paginar
     if not paginate:
