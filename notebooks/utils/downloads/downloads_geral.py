@@ -25,14 +25,24 @@ def read_zip_file(name_cache:str, logger:Logger=getLogger()):
                 logger.info("Arquivo lido com sucesso!")
 
 
-def save_zip_file(url:str, name_cache:str, logger:Logger=getLogger()):
+def save_zip_file(
+    url:str, 
+    name_cache:str, 
+    logger:Logger=getLogger()
+):
     response = requests.get(url)
     if response.status_code==200:
         with open(name_cache, 'wb') as f:
             f.write(response.content)
-            f.close()
+            #f.close()
         logger.info(
             f'Arquivo baixado com sucesso!{name_cache}'
+        )
+    else:
+        logger.error(
+            f'''Falha no download. Status Code: {
+                response.status_code
+            }. URL: {url}'''
         )
 
 def download_to_temporary_cache(
