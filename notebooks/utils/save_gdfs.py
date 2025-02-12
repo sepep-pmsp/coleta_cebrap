@@ -8,12 +8,14 @@ import pyproj
 def save_parquet(
     gdf:gpd.GeoDataFrame,
     fname:str,
+    project_path:str,
     data_subpath:str='',
+    
     **kwargs
 ) -> None:
 
-    project_path = os.path.abspath(os.path.join(os.getcwd(), '..', '..'))
-    data_path = os.path.join(project_path, 'data')
+    
+    data_path = os.path.join(project_path, 'data', 'assets')
 
 
     
