@@ -3,6 +3,7 @@ from logging import (
     Logger,
     getLogger,
 )
+import os
 
 def check_crs(
     gdf, 
@@ -24,3 +25,7 @@ def check_crs(
             gdf=gdf.to_crs('EPSG:31983')
             logger.info(f"Novo crs: {gdf.crs}")
             return gdf
+
+
+    
+    
