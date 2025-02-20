@@ -55,6 +55,6 @@ Tema|Notebook|Parquet|Excel - Google|
 [arvores-km-2-excel]: https://docs.google.com/spreadsheets/d/1jNweHIS7YvwtNN98Y1Zj4twWJxYyI99Q/edit?usp=drive_link&ouid=104569777283565556490&rtpof=true&sd=true
 
 
-> [Indicadores Educação][Inep-notebook] precisa de arquivos resultados de [Censo][Censo-notebook] e [Inep][Inep-notebook] para conseguir funcionar com exito.
-> [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] precisa de arquivos resultados de [Arborização Viária][arborizacao-viaria-notebook] e [Distritos][distritos-notebook] para funcionar.
-> [Árvores no Viário per capita][arvores-per-capita-notebook] e [Árvores no Viário por Km²][arvores-km-2-notebook] precisam do arquivo resultado de [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] para funcionar.
+> [Indicadores Educação][Inep-notebook] precisa de arquivos resultados de [Censo][Censo-notebook] e [Inep][Inep-notebook] para conseguir funcionar com exito.\
+> [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] precisa de arquivos resultados de [Arborização Viária][arborizacao-viaria-notebook] e [Distritos][distritos-notebook] para funcionar.\
+> [Árvores no Viário per capita][arvores-per-capita-notebook] e [Árvores no Viário por Km²][arvores-km-2-notebook] precisam do arquivo resultado de [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] para funcionar.\
