@@ -15,7 +15,10 @@ import requests
 from time import sleep
 import shutil
 
-from utils import save_parquet_excel
+from utils import (
+    save_parquet_excel,
+    get_data_diretorio
+)
 
 def read_zip_file(name_cache:str, logger:Logger=getLogger()):
                 gdf= gpd.read_file(
@@ -79,10 +82,14 @@ def download_to_temporary_cache(
                     Tentando ler arquivo em cache"""
                 )
             
-def _prepare_cache_single(url:str, name_feature:str, logger:Logger=getLogger()) -> gpd.GeoDataFrame:
+def _prepare_cache_single(
+    url:str, 
+    name_feature:str, 
+    project_path:str,
+    logger:Logger=getLogger()
+) -> gpd.GeoDataFrame:
 
-    project_path = os.path.abspath(os.path.join(os.getcwd(), '..', '..'))
-    data_path = os.path.join(project_path, 'data')
+    data_path = get_data_diretorio(project_path)
 
     file_dir = join(data_path, 'cache')
     file_path = join(file_dir, name_feature + '.zip')
@@ -106,7 +113,7 @@ def _create_paginated_url(url:str, max_features:int, start_index:str)->str:
 
     return f"{url}&maxFeatures={max_features}&startIndex={start_index}"
 
-def _prepare_cache_paginated(url:str, name_feature:str, logger:Logger=getLogger(), max_features=2000) -> gpd.GeoDataFrame:
+def _prepare_cache_paginated(url:str, name_feature:str, project_path:str, logger:Logger=getLogger(), max_features=2000) -> gpd.GeoDataFrame:
 
     geodfs = []
     
@@ -118,7 +125,12 @@ def _prepare_cache_paginated(url:str, name_feature:str, logger:Logger=getLogger(
         name_feature_req = f"{name_feature}_pg{page}"
         print(url_req)
         print(name_feature_req)
-        gdf = _prepare_cache_single(url_req, name_feature_req, logger)
+        gdf = _prepare_cache_single(
+            url_req, 
+            name_feature_req, 
+            project_path, 
+            logger
+        )
         print(gdf.shape)
         if len(gdf)<1:
             break
@@ -128,20 +140,38 @@ def _prepare_cache_paginated(url:str, name_feature:str, logger:Logger=getLogger(
     
     df = pd.concat(geodfs)
 
-    save_parquet(df, f'{name_feature}_concat', 'cache')
+    save_parquet_excel(df, f'{name_feature}_concat', 'cache')
     
     
     
     return gpd.GeoDataFrame(df)
 
 
-def _prepare_cache(url:str, name_feature:str, paginate=False, logger:Logger=getLogger(), max_features=2000) -> gpd.GeoDataFrame:
+def _prepare_cache(
+    url:str, 
+    name_feature:str, 
+    project_path:str, 
+    paginate=False, 
+    logger:Logger=getLogger(), 
+    max_features=2000
+) -> gpd.GeoDataFrame:
 
     #early return para quando nao faz sentido paginar
     if not paginate:
-        return _prepare_cache_single(url, name_feature, logger)
+        return _prepare_cache_single(
+            url, 
+            name_feature, 
+            project_path, 
+            logger
+        )
 
-    return _prepare_cache_paginated(url, name_feature, logger, max_features)
+    return _prepare_cache_paginated(
+        url, 
+        name_feature, 
+        project_path,
+        logger,
+        max_features
+    )
    
 
 
