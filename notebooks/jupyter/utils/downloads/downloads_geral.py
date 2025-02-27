@@ -20,6 +20,14 @@ from utils import (
     get_data_diretorio
 )
 
+def set_cache_path(data_path):
+    cache_path = join(
+        data_path, 
+        'cache'
+    )
+    return cache_path
+    
+    
 def read_zip_file(name_cache:str, logger:Logger=getLogger()):
                 gdf= gpd.read_file(
                     f'zip:///{name_cache}'
@@ -60,23 +68,29 @@ def download_to_temporary_cache(
         logger.info(f"""
             Tentativa ({i + 1}/{max_retries})""")
         try:
+            print(1)
             name_cache = abspath(name_cache)
             save_zip_file(url, name_cache)
             shutil.copy(name_cache, file_path)
             assert exists(name_cache), f"Arquivo {name_cache} não encontrado"
+            print(2)
             break
         
         except requests.exceptions.RequestException as e:
+            print(3)
             logger.error(f"Erro na requisição: {e}")
         except Exception as e:
+            print(4)
             logger.error(f"Erro ao processar o arquivo: {e}")
                 
         if i < max_retries -1:
-                logger.warning(
+            print(5)    
+            logger.warning(
                     f"Tentando novamente em {i} segundos..."
                 )
-                sleep(5)
+            sleep(5)
         else:
+            print(6)
             logger.warning(
                     """Limite de tentativas atingido.
                     Tentando ler arquivo em cache"""
@@ -91,7 +105,7 @@ def _prepare_cache_single(
 
     file_dir = cache_path
     file_path = join(file_dir, name_feature + '.zip')
-    gdf={}
+    gdf=gpd.GeoDataFrame()
     temporary_cache = join(cache_path,'temporary_cache')
     name_cache = join(temporary_cache, name_feature + '.zip')
     
@@ -99,12 +113,15 @@ def _prepare_cache_single(
     makedirs(temporary_cache, exist_ok=True)
 
     download_to_temporary_cache(url, name_cache, file_path)
+    print(file_path)
+    if not os.path.exists(file_path):
+        print('Tem arquivo aqui não')
     
-    
-    gdf= gpd.read_file(
-        f'zip://{file_path}'
-    )
-    logger.info("Leitura do arquivo concluída.")
+        gdf= gpd.read_file(
+            f'zip://{file_path}'
+        )
+        logger.info("Leitura do arquivo concluída.")
+            
     return gdf
 
 def _create_paginated_url(url:str, max_features:int, start_index:str)->str:
