@@ -15,6 +15,9 @@ Tema|Notebook|Parquet|Excel - Google|
 |Distritos com quantidade de Árvores no Viário|[:link:][distritos-qtdd-arv-notebook]|[:link:][distritos-qtdd-arv-parquet]|[:link:][distritos-qtdd-arv-excel]|
 |Árvores no Viário per capita|[:link:][arvores-per-capita-notebook]|[:link:][arvores-per-capita-parquet]|[:link:][arvores-per-capita-excel]|
 |Árvores no Viário por Km²|[:link:][arvores-km-2-notebook]|[:link:][arvores-km-2-parquet]|[:link:][arvores-km-2-excel]|
+|Cobertura Vegetal 2020|[:link:][cobertura-vegetal-notebook]|[:link:][cobertura-vegetal-parquet]|[:link:][cobertura-vegetal-excel]|
+|Porcentagem de Cobertura Vegetal|[:link:][pct-cobertura-vegetal-notebook]|[:link:][pct-cobertura-vegetal-parquet]|[:link:][pct-cobertura-vegetal-excel]|
+|Cobertura Vegetal per capita|[:link:][cobertura-vegetal-pcapita-notebook]|[:link:][cobertura-vegetal-pcapita-parquet]|[:link:][cobertura-vegetal-pcapita-excel]|
 
 [Censo-notebook]: notebooks/colab/[cebrap]ibge_censo_setor_censitario.ipynb
 [Censo-parquet]: https://drive.google.com/file/d/1WNv6iCmwaJzcXZvR2eHJSUcJvLUgnB1p/view?usp=sharing
@@ -54,7 +57,23 @@ Tema|Notebook|Parquet|Excel - Google|
 [arvores-km-2-parquet]: https://drive.google.com/file/d/15muVH24CP03qk3y60ctnd6NX7gkPeZya/view?usp=drive_link
 [arvores-km-2-excel]: https://docs.google.com/spreadsheets/d/1jNweHIS7YvwtNN98Y1Zj4twWJxYyI99Q/edit?usp=drive_link&ouid=104569777283565556490&rtpof=true&sd=true
 
+ 
+[cobertura-vegetal-notebook]: notebooks/jupyter/cobertura_vegetal/download_data/malha_cobertura_vegetal.ipynb
+[cobertura-vegetal-parquet]: https://drive.google.com/file/d/11h0X3DGcLN1_dy-HLl1boXynvUt29obx/view?usp=drive_link
+[cobertura-vegetal-excel]: https://docs.google.com/spreadsheets/d/1ysS6IgFyk-HturNcIYkAzv-Y-984kVzk/edit?usp=drive_link&ouid=104569777283565556490&rtpof=true&sd=true
+
+[pct-cobertura-vegetal-notebook]: notebooks/jupyter/cobertura_vegetal/treat_data/[cebrap]cobertura_vegetal_por_distrito.ipynb
+[pct-cobertura-vegetal-parquet]: https://drive.google.com/file/d/11PQ_Ah6Rlu0AL3RMGomcWim-Dt81bg9I/view?usp=drive_link
+[pct-cobertura-vegetal-excel]: https://docs.google.com/spreadsheets/d/16d2gSjdFUXJF6eXJvGI629bkiBfPKuDm/edit?usp=drive_link&ouid=104569777283565556490&rtpof=true&sd=true
+
+[cobertura-vegetal-pcapita-notebook]: notebooks/jupyter/cobertura_vegetal/treat_data/[cebrap]cobertura_vegetal_per_capita.ipynb
+[cobertura-vegetal-pcapita-parquet]: https://drive.google.com/file/d/1D8pel4LfYwACuTKXNZNAUfcxr87ruXOi/view?usp=drive_link
+[cobertura-vegetal-pcapita-excel]: https://docs.google.com/spreadsheets/d/1N3iPIzF6w2BxaEF9AfyTym-7fdhl1GTb/edit?usp=drive_link&ouid=104569777283565556490&rtpof=true&sd=true
+
+[intersec-cobertura-vegetal-notebook]: notebooks/jupyter/cobertura_vegetal/treat_data/overlay_distrito_cobertura_vegetal.ipynb
 
 > [Indicadores Educação][Inep-notebook] precisa de arquivos resultados de [Censo][Censo-notebook] e [Inep][Inep-notebook] para conseguir funcionar com exito.\
 > [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] precisa de arquivos resultados de [Arborização Viária][arborizacao-viaria-notebook] e [Distritos][distritos-notebook] para funcionar.\
 > [Árvores no Viário per capita][arvores-per-capita-notebook] e [Árvores no Viário por Km²][arvores-km-2-notebook] precisam do arquivo resultado de [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] para funcionar.\
+> [Porcentagem de Cobertura Vegetal][pct-cobertura-vegetal-notebook] precisa dos arquivos resultados de [Cobertura Vegetal interseccionada por Distrito][intersec-cobertura-vegetal-notebook] e [Distritos][distritos-notebook] para funcionar.\
+> [Cobertura Vegetal per capita][cobertura-vegetal-pcapita-notebook] precisa do arquivo resultado de [Porcentagem de Cobertura Vegetal][pct-cobertura-vegetal-notebook] 
