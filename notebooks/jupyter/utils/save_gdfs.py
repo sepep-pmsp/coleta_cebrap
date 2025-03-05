@@ -6,26 +6,6 @@ from os.path import join, exists
 import pyproj
 
 
-import os
-
-def diretorio(diretorio_atual:str)-> str:
-    diretorio = os.path.abspath(
-        os.path.join(
-            diretorio_atual,
-            '..',
-            '..',
-            '..'
-        )
-    )
-    return diretorio
-
-def get_data_diretorio(diretorio_atual)->str:
-    project_path = diretorio(diretorio_atual)
-    data_path = os.path.join(
-        project_path,
-        'data'
-    )
-    return data_path
     
 def save_parquet_excel(
     gdf:gpd.GeoDataFrame,
