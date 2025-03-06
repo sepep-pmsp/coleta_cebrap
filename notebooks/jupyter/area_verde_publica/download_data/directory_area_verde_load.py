@@ -7,7 +7,27 @@ sys.path.append(os.path.join(
     '..'
 ))
 
-from utils import diretorio
+def get_data_diretorio(project_path:str)->str:
+    
+    data_path = os.path.join(
+        project_path,
+        '..',
+        '..',
+        'data'
+    )
+    return str(data_path)
+
+    
+
+def diretorio(diretorio_atual:str)-> str:
+    diretorio = os.path.abspath(
+        os.path.join(
+            diretorio_atual,
+            '..',
+            '..',
+        )
+    )
+    return diretorio
 
 def definir_diretorio():
     '''
