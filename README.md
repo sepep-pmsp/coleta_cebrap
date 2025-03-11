@@ -2,23 +2,23 @@
 Repositório para armazenar notebooks de coleta, tratamento e construção de indicadores
 
 ## Index
-Tema|Notebook|Parquet|Excel - Google|
-|:-:|:-:|:-:|:-:|
-|Todos Indicadores|X|X|[:link:][todos-indicadores-excel-google]|
-|Políticas Sociais|[:link:][politicas-sociais-notebook]|X|[:link:][todos-indicadores-excel-google]|
-|Censo|[:link:][Censo-notebook]|[:link:][Censo-parquet]|[:link:][Censo-Excel-Google]|
-|Inep|[:link:][Inep-notebook]|[:link:][Inep-parquet]|X|
-|Indicadores Educação|[:link:][Indicadores-Educação-notebook]|X|[:link:][Indicadores-Educação-Excel-Google]|
-|Indicadores Rais|[:link:][Indicadores-Rais-notebook]|X|[:link:][Indicadores-Rais-Excel-Google]|
-|Indicadores Mortalidade|[:link:][indicadores-mortalidade-notebook]|X|[:link:][indicadores-mortalidade-excel-google]|
-|Arborização Viária|[:link:][arborizacao-viaria-notebook]|[:link:][arborizacao-viaria-parquet]|[:link:][arborizacao-viaria-excel]|
-|Distritos|[:link:][distritos-notebook]|[:link:][distritos-parquet]|[:link:][distritos-excel]|
-|Distritos com quantidade de Árvores no Viário|[:link:][distritos-qtdd-arv-notebook]|[:link:][distritos-qtdd-arv-parquet]|[:link:][distritos-qtdd-arv-excel]|
-|Árvores no Viário per capita|[:link:][arvores-per-capita-notebook]|[:link:][arvores-per-capita-parquet]|[:link:][arvores-per-capita-excel]|
-|Árvores no Viário por Km²|[:link:][arvores-km-2-notebook]|[:link:][arvores-km-2-parquet]|[:link:][arvores-km-2-excel]|
-|Cobertura Vegetal 2020|[:link:][cobertura-vegetal-notebook]|[:link:][cobertura-vegetal-parquet]|[:link:][cobertura-vegetal-excel]|
-|Porcentagem de Cobertura Vegetal|[:link:][pct-cobertura-vegetal-notebook]|[:link:][pct-cobertura-vegetal-parquet]|[:link:][pct-cobertura-vegetal-excel]|
-|Cobertura Vegetal per capita|[:link:][cobertura-vegetal-pcapita-notebook]|[:link:][cobertura-vegetal-pcapita-parquet]|[:link:][cobertura-vegetal-pcapita-excel]|
+Tema|Notebook|Parquet|Excel - Google|Documentação|
+|:-:|:-:|:-:|:-:|:-:|
+|Todos Indicadores|X|X|[:link:][todos-indicadores-excel-google]|X|
+|Políticas Sociais|[:link:][politicas-sociais-notebook]|X|[:link:][todos-indicadores-excel-google]|[:link:][politicas-sociais-doc]|
+|Censo|[:link:][Censo-notebook]|[:link:][Censo-parquet]|[:link:][Censo-Excel-Google]|X|
+|Inep|[:link:][Inep-notebook]|[:link:][Inep-parquet]|X|X|
+|Indicadores Educação|[:link:][Indicadores-Educação-notebook]|X|[:link:][Indicadores-Educação-Excel-Google]|X|
+|Indicadores Rais|[:link:][Indicadores-Rais-notebook]|X|[:link:][Indicadores-Rais-Excel-Google]|X|
+|Indicadores Mortalidade|[:link:][indicadores-mortalidade-notebook]|X|[:link:][indicadores-mortalidade-excel-google]|X|
+|Arborização Viária|[:link:][arborizacao-viaria-notebook]|[:link:][arborizacao-viaria-parquet]|[:link:][arborizacao-viaria-excel]|X|
+|Distritos|[:link:][distritos-notebook]|[:link:][distritos-parquet]|[:link:][distritos-excel]|X|
+|Distritos com quantidade de Árvores no Viário|[:link:][distritos-qtdd-arv-notebook]|[:link:][distritos-qtdd-arv-parquet]|[:link:][distritos-qtdd-arv-excel]|X|
+|Árvores no Viário per capita|[:link:][arvores-per-capita-notebook]|[:link:][arvores-per-capita-parquet]|[:link:][arvores-per-capita-excel]|X|
+|Árvores no Viário por Km²|[:link:][arvores-km-2-notebook]|[:link:][arvores-km-2-parquet]|[:link:][arvores-km-2-excel]|X|
+|Cobertura Vegetal 2020|[:link:][cobertura-vegetal-notebook]|[:link:][cobertura-vegetal-parquet]|[:link:][cobertura-vegetal-excel]|X|
+|Porcentagem de Cobertura Vegetal|[:link:][pct-cobertura-vegetal-notebook]|[:link:][pct-cobertura-vegetal-parquet]|[:link:][pct-cobertura-vegetal-excel]|X|
+|Cobertura Vegetal per capita|[:link:][cobertura-vegetal-pcapita-notebook]|[:link:][cobertura-vegetal-pcapita-parquet]|[:link:][cobertura-vegetal-pcapita-excel]|X|
 
 [Censo-notebook]: notebooks/colab/[cebrap]ibge_censo_setor_censitario.ipynb
 [Censo-parquet]: https://drive.google.com/file/d/1WNv6iCmwaJzcXZvR2eHJSUcJvLUgnB1p/view?usp=sharing
@@ -26,6 +26,7 @@ Tema|Notebook|Parquet|Excel - Google|
 
 [politicas-sociais-notebook]: notebooks/colab/Pol%C3%ADticas%20Sociais/%5Bcebrap%5Dpoliticas_sociais.ipynb
 [politicas-sociais-excel]: https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681
+[politicas-sociais-doc]: docs/README.md
 
 [Inep-notebook]: notebooks/colab/[cebrap]coleta_dados_educacao.ipynb
 [Inep-parquet]: https://drive.google.com/file/d/1VCEejCcjFTEWfzPnCN4RWltAVZ3sZXxd/view?usp=sharing
