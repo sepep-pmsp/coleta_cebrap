@@ -1,6 +1,7 @@
 # Documentação dos indicadores
-Documentação de indicadores da dimenção - `Políticas Sociais`
+Documentação de indicadores da dimenção - [`Políticas Sociais`][politicas-sociais-notebook]
 
+[politicas-sociais-notebook]: notebooks/colab/Pol%C3%ADticas%20Sociais/%5Bcebrap%5Dpoliticas_sociais.ipynb
 # Index
 
 # Políticas Sociais
