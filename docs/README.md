@@ -8,7 +8,7 @@ Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
 % da população distrital a até 1 km de uma UBS|X|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AR1)|
 % da população distrital a até 5 km de um Hospital|X|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AT1)|
-% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|X|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Z1)|-|
+% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|X|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Z1)|[Detalhe](#-da-população-que-vive-em-domicílios-urbanos-sem-o-serviço-de-coleta-de-lixo)|
 População em idade escolar até 1 km de uma escola no distrito|X|X|X|
 Matrículas no ensino integral no distrito|X|X|X|
 Pessoas responsáveis de 10 a 29 anos no distrito|Pessoa responsável pelo domicílio, 12 a 24 anos - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=P1)|[Detalhe](#pessoas-responsáveis-de-10-a-29-anos-no-distrito)|
