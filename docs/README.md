@@ -8,7 +8,7 @@ Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
 População em idade escolar até 1 km de uma escola no distrito|X|X|X|
 Matrículas no ensino integral no distrito|X|X|X|
-Pessoas responsáveis de 10 a 29 anos no distrito|Pessoa responsável pelo domicílio, 12 a 24 anos - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=P1)|-|
+Pessoas responsáveis de 10 a 29 anos no distrito|Pessoa responsável pelo domicílio, 12 a 24 anos - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=P1)|[Detalhe](#pessoas-responsáveis-de-10-a-29-anos-no-distrito)|
 % da População de 65 anos ou mais|% de pessoas de 65 anos ou mais - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=F1)|
 População de 18 a 20 anos com médio completo no distrito|X|X|X|
 Crianças de 0 a 5 anos não frequentam escola no distrito|X|X|X|
