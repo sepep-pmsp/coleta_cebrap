@@ -12,7 +12,7 @@ Pessoas responsáveis de 10 a 29 anos no distrito|Pessoa responsável pelo domic
 % da População de 65 anos ou mais|% de pessoas de 65 anos ou mais - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=F1)|
 População de 18 a 20 anos com médio completo no distrito|X|X|X|
 Crianças de 0 a 5 anos não frequentam escola no distrito|X|X|X|
-Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito|Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=X1)|-|
+Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito|Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=X1)|[Detalhe](#mães-chefes-de-família-sem-fundamental-completo-e-com-filho-menor-de-15-no-distrito)|
 Mulheres de 10 a 17 anos que tiveram filhos no distrito|Nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|
 População de rua no distrito|X|X|X|
 Óbitos infantis no distrito|X|X|X|
@@ -20,13 +20,13 @@ População de rua no distrito|X|X|X|
 Registros de violência contra a mulher no distrito|X|X|X|
 Registros de violência contra pessoas negras no distrito|X|X|X|
 Bebês com baixo peso no distrito|Bebês com baixo peso ao nascer (menos de 2,5 kg) - SINASC 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|
-Bebês nascidos de mães adolescentes no distrito|X|X|X|-|
+Bebês nascidos de mães adolescentes no distrito|X|X|X|[Detalhe](#bebês-nascidos-de-mães-adolescentes-no-distrito)|
 Nasceram vivos com 7+ consultas no distrito|Nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - SINASC 2023|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AA1)|
 Pessoas responsáveis não alfabetizadas no distrito|Pessoa responsável pelo domicílio, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=U1)|
 Equipamentos educacionais no distrito|X|X|X|
 Taxa de distorção idade-série no distrito|X|X|X|
 Homicídios no distrito|X|X|X|
-Mulheres responsáveis com menos de 30 anos no distrito|Pessoa responsável pelo domicílio, Sexo feminino, 15 a 29 anos - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=R1)|-|
+Mulheres responsáveis com menos de 30 anos no distrito|Pessoa responsável pelo domicílio, Sexo feminino, 15 a 29 anos - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=R1)|[Detalhe](#mulheres-responsáveis-com-menos-de-30-anos-no-distrito)|
 Taxa de distorção idade-série no distrito|X|X|X|
 Matrículas de crianças pardas no distrito|X|X|X|
 Matrículas de crianças pretas no distrito|X|X|X|
