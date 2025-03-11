@@ -77,8 +77,13 @@ Tema|Notebook|Parquet|Excel - Google|Documentação|
 
 [intersec-cobertura-vegetal-notebook]: notebooks/jupyter/cobertura_vegetal/treat_data/overlay_distrito_cobertura_vegetal.ipynb
 
-> [Indicadores Educação][Inep-notebook] precisa de arquivos resultados de [Censo][Censo-notebook] e [Inep][Inep-notebook] para conseguir funcionar com exito.\
-> [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] precisa de arquivos resultados de [Arborização Viária][arborizacao-viaria-notebook] e [Distritos][distritos-notebook] para funcionar.\
-> [Árvores no Viário per capita][arvores-per-capita-notebook] e [Árvores no Viário por Km²][arvores-km-2-notebook] precisam do arquivo resultado de [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] para funcionar.\
-> [Porcentagem de Cobertura Vegetal][pct-cobertura-vegetal-notebook] precisa dos arquivos resultados de [Cobertura Vegetal interseccionada por Distrito][intersec-cobertura-vegetal-notebook] e [Distritos][distritos-notebook] para funcionar.\
+# 
+> [Indicadores Educação][Inep-notebook] precisa de arquivos resultados de [Censo][Censo-notebook] e [Inep][Inep-notebook] para conseguir funcionar com exito.
+> 
+> [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] precisa de arquivos resultados de [Arborização Viária][arborizacao-viaria-notebook] e [Distritos][distritos-notebook] para funcionar.
+> 
+> [Árvores no Viário per capita][arvores-per-capita-notebook] e [Árvores no Viário por Km²][arvores-km-2-notebook] precisam do arquivo resultado de [Distritos com quantidade de Árvores no Viário][distritos-qtdd-arv-notebook] para funcionar.
+> 
+> [Porcentagem de Cobertura Vegetal][pct-cobertura-vegetal-notebook] precisa dos arquivos resultados de [Cobertura Vegetal interseccionada por Distrito][intersec-cobertura-vegetal-notebook] e [Distritos][distritos-notebook] para funcionar.
+> 
 > [Cobertura Vegetal per capita][cobertura-vegetal-pcapita-notebook] precisa do arquivo resultado de [Porcentagem de Cobertura Vegetal][pct-cobertura-vegetal-notebook] 
