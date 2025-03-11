@@ -1,5 +1,5 @@
 # Documentação dos indicadores
-Repositório para armazenar notebooks de coleta, tratamento e construção de indicadores
+Documentação de indicadores da dimenção - `Políticas Sociais`
 
 # Index
 
