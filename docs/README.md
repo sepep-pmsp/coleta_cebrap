@@ -1,10 +1,24 @@
 # Documentação dos indicadores
-Documentação de indicadores da dimenção - [`Políticas Sociais`][politicas-sociais-notebook]
+Documentação de indicadores da dimenção - [`Políticas Sociais`][politicas-sociais-notebook], Desenvolvimento Urbano e Resiliência Climática e Sustentabilidade
 
 [politicas-sociais-notebook]: notebooks/colab/Pol%C3%ADticas%20Sociais/%5Bcebrap%5Dpoliticas_sociais.ipynb
-# Index
 
-# Políticas Sociais
+# Index
+- [Dimensões](#dimensões): 
+    - [Políticas Sociais](#políticas-sociais)
+    - [Desenvolvimento Urbano](#desenvolvimento-urbano)
+    - [Resiliência Climática e Sustentabilidade](#resiliência-climática-e-sustentabilidade)
+- [Todos Indicadores](#todos-indicadores)
+
+# Dimensões
+
+A categoria "Dimensões" foi criada com o intuito de proporcionar uma melhor organização e categorização dos indicadores, facilitando a análise e o entendimento dos diversos aspectos abordados. Essa estrutura foi dividida em três grandes temas: Políticas Sociais, Desenvolvimento Urbano e Resiliência Climática e Sustentabilidade.
+
+Cada um desses temas aborda áreas essenciais para o desenvolvimento e o bem-estar da sociedade. O tema Políticas Sociais reúne indicadores relacionados às ações e estratégias voltadas para a melhoria da qualidade de vida das populações, com foco em questões como saúde, educação, assistência social e segurança. Já o Desenvolvimento Urbano concentra-se em aspectos ligados ao crescimento das cidades, infraestrutura, mobilidade urbana, e planejamento territorial, buscando otimizar os espaços urbanos para atender as necessidades de uma população crescente. Por fim, o tema Resiliência Climática e Sustentabilidade aborda a adaptação das cidades e comunidades aos impactos das mudanças climáticas, bem como a promoção de práticas sustentáveis para garantir a preservação do meio ambiente e o uso responsável dos recursos naturais.
+
+Com essa organização, os indicadores se tornam mais acessíveis e facilitam a análise das diferentes dimensões que impactam o desenvolvimento social, econômico e ambiental, promovendo uma visão integrada e mais eficaz para as tomadas de decisão.
+
+## Políticas Sociais
 Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
 População em idade escolar até 1 km de uma escola no distrito|X|X|X|
@@ -49,12 +63,7 @@ No [Censo 2022][censo-2022] dados vão de 15 a 29 anos
 
 Sinto que esse indicador acaba sendo muito proximo do `Mulheres de 10 a 17 anos que tiveram filhos no distrito`
 
-### % da população que vive em domicílios urbanos sem o serviço de coleta de lixo
-
-No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de coleta. Achei melhor coletar a porpoção que tem o serviço. Porque existe um dado para isso. Calcular pessoas sem o serviço entra filtros pouco claros que podem gerar mais erro
-
-
-# Desenvolvimento Urbano
+## Desenvolvimento Urbano
 
 |Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
@@ -84,7 +93,7 @@ Taxa de crimes de oportunidade|X|X|X|X|
 % de pessoas no distrito a até 1 km de uma estação de metrô|X|X|X|X|
 % de pessoas no distrito a até 1 km metros de um corredor|X|X|X|X|
 
-# Resiliência Climática e Sustentabilidade
+## Resiliência Climática e Sustentabilidade
 
 |Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
@@ -101,6 +110,10 @@ Internações por causas sensíveis à atenção básica por local de residênci
 Cobertura vegetal per capita (m²/hab)|X|X|X|X|
 % da população a menos de 1 km de parques urbanos e lineares|X|X|X|X|
 % dos domicílios em áreas de risco (R3 e R4) / total de domicílios|X|X|X|X|
+
+### % da população que vive em domicílios urbanos sem o serviço de coleta de lixo
+
+No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de coleta. Achei melhor coletar a porpoção que tem o serviço. Porque existe um dado para isso. Calcular pessoas sem o serviço entra filtros pouco claros que podem gerar mais erro
 
 # Todos Indicadores
 
