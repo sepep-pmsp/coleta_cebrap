@@ -7,9 +7,6 @@ Documentação de indicadores da dimenção - [`Políticas Sociais`][politicas-s
 # Políticas Sociais
 Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
-% da população distrital a até 1 km de uma UBS|% da população distrital a até 1 km de uma UBS|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AR1)|
-% da população distrital a até 5 km de um Hospital|% da população distrital a até 5 km de um Hospital|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AT1)|
-% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|Proporção que vive em domicílios urbanos com o serviço de coleta de lixo - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Z1)|[Detalhe](#-da-população-que-vive-em-domicílios-urbanos-sem-o-serviço-de-coleta-de-lixo)|
 População em idade escolar até 1 km de uma escola no distrito|X|X|X|
 Matrículas no ensino integral no distrito|X|X|X|
 Pessoas responsáveis de 10 a 29 anos no distrito|Pessoa responsável pelo domicílio, 12 a 24 anos - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=P1)|[Detalhe](#pessoas-responsáveis-de-10-a-29-anos-no-distrito)|
@@ -55,6 +52,55 @@ Sinto que esse indicador acaba sendo muito proximo do `Mulheres de 10 a 17 anos 
 ### % da população que vive em domicílios urbanos sem o serviço de coleta de lixo
 
 No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de coleta. Achei melhor coletar a porpoção que tem o serviço. Porque existe um dado para isso. Calcular pessoas sem o serviço entra filtros pouco claros que podem gerar mais erro
+
+
+# Desenvolvimento Urbano
+
+|Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
+|:-:|:-:|:-:|:-:|:-:|
+Óbitos no trânsito por km de via|X|X|X|X|
+% de empregados sem carteira - PEA|X|X|X|X|
+% de pessoas com até 30 minutos de viagem casaXeducação|X|X|X|X|
+% de pessoas com até 30 minutos de viagem casaXsaúde|X|X|X|X|
+% de pessoas com até 30 minutos de viagem casaXtrabalho|X|X|X|X|
+% de população a até 1 km de equipamentos de cultura|X|X|X|X|
+% de população a até 1 km de equipamentos de esporte em áreas públicas|X|X|X|X|
+% dos ocupados com superior completo - 18 anos ou mais|X|X|X|X|
+% pretos+pardos a até 300 metros de uma ciclovia no distrito / % pretos+pardos do distrito|X|X|X|X|
+% pretos+pardos no distrito a até 1 km de uma estação de metrô / % pretos+pardos do distrito|X|X|X|X|
+% pretos+pardos no distrito a até 1 km metros de uma corredor / % pretos+pardos do distrito|X|X|X|X|
+% população que acessa ao menos um ponto de parada da rede de transporte diurna em até 300 m em linha reta|X|X|X|X|
+Habitantes por domicílio|X|X|X|X|
+% de domicílios em favelas e comunidades urbanas|X|X|X|X|
+Incidência distrital de chefe de família mulher sem rendimento|X|X|X|X|
+Domicílios não próprios (alugado + cedido)|X|X|X|X|
+Oferta de emprego formal por distrito (empregos / habitante)|X|X|X|X|
+% de domicílios particulares com rendimento nominal mensal de até 1/2 S.M.|X|X|X|X|
+% domicílios particulares com rendimento nominal mensal de até 1/4 S.M.|X|X|X|X|
+% de empregos com nível superior|X|X|X|X|
+Renda domiciliar per capita|X|X|X|X|
+Taxa de crimes de oportunidade|X|X|X|X|
+% de pessoas até 300 metros de uma ciclovia no distrito|X|X|X|X|
+% de pessoas no distrito a até 1 km de uma estação de metrô|X|X|X|X|
+% de pessoas no distrito a até 1 km metros de um corredor|X|X|X|X|
+
+# Resiliência Climática e Sustentabilidade
+
+|Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
+|:-:|:-:|:-:|:-:|:-:|
+% da população distrital a até 1 km de uma UBS|% da população distrital a até 1 km de uma UBS|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AR1)|
+% da população distrital a até 5 km de um Hospital|% da população distrital a até 5 km de um Hospital|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AT1)|
+% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|Proporção que vive em domicílios urbanos com o serviço de coleta de lixo - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Z1)|[Detalhe](#-da-população-que-vive-em-domicílios-urbanos-sem-o-serviço-de-coleta-de-lixo)|
+Anos Potenciais de Vida Perdidos – APVP|X|X|X|X|
+Área de inundação no território / total de área do distrito|X|X|X|X|
+Área verde pública por habitante (m²/hab)|X|X|X|X|
+% de domicílios conectados à rede / total de domicílios do distrito (ICE)|X|X|X|X|
+Internações por causas sensíveis à atenção básica por local de residência por 100 mil hab|X|X|X|X|
+Área de alagamento / área do distrito|X|X|X|X|
+Óbitos Evitáveis|X|X|X|X|
+Cobertura vegetal per capita (m²/hab)|X|X|X|X|
+% da população a menos de 1 km de parques urbanos e lineares|X|X|X|X|
+% dos domicílios em áreas de risco (R3 e R4) / total de domicílios|X|X|X|X|
 
 # Todos Indicadores
 
