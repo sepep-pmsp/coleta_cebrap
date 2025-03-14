@@ -121,19 +121,19 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 
 - [x] População total
 - [x] ~~Mulheres chefes de família e com filhos menores de 15 anos(Não encontrado no Censo)~~
-- [x] % de pessoas de 65 anos ou mais
-- [x] Total de pessoas de 65 anos ou mais
+- [x] % de pessoas de 65 anos ou mais -> [Codigo][indicadores_8]
+- [x] Total de pessoas de 65 anos ou mais -> [Codigo][indicadores_8]
 - [x] ~~% de mães chefes de família, sem fundamental completo e com filho menor de 15 anos de idade(Não encontrado no Censo)~~
-- [x] % Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever
+- [x] % Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever -> [Codigo][indicadores_1]
 - [x] Cor
 - [x] Proporção de crianças de 0 a 4 anos na população
 - [x] ~~Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos (Não encontrado no Censo)~~
 - [x] Proporção de mulheres responsáveis pelo domicílio - Incidência distrital de chefe de família mulher (Sera mesma coisa?)
-- [X] Incidência distrital de longevidade (pessoas acima de 70 anos).(Parecida com "% de pessoas de 65 anos ou mais")
-- [x] Proporção de pessoas responsáveis de 12 a 24 anos
-- [x] Proporção de mulheres reponsáveis com menos de 15 a 29 anos
+- [X] Incidência distrital de longevidade (pessoas acima de 70 anos).(Parecida com "% de pessoas de 65 anos ou mais") -> [Codigo][indicadores_8]
+- [x] Proporção de pessoas responsáveis de 12 a 24 anos(Proporção de pessoas responsáveis de 10 a 29 anos) ->  [Codigo][indicadores_3]
+- [x] Proporção de mulheres reponsáveis com menos de 15 a 29 anos -> [Codigo][indicadores_4]
 - [x] Proporção de pessoas responsáveis não alfabetizadas
-- [x] % da população que vive em domicílios urbanos com o serviço de coleta de lixo
+- [x] % da população que vive em domicílios urbanos com o serviço de coleta de lixo -> [Codigo][indicadores_14]
 
 
 [censo-2022]: https://www.ibge.gov.br/estatisticas/sociais/trabalho/22827-censo-demografico-2022.html?=&t=downloads
@@ -143,14 +143,14 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 
 - [x] Mortalidade até 1 ano de idade
 - [x] Mortalidade até 5 anos de idade
-- [x] Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal
-- [x] Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)
-- [x] Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg)
-- [x] Mortalidade materna
+- [x] Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal -> [Codigo][indicadores_6]
+- [x] Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) ->  [Codigo][indicadores_2]
+- [x] Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) -> [Codigo][indicadores_5]
+- [x] Mortalidade materna -> [Codigo][indicadores_9]
 - [x] Idade média ao morrer
 - [x] ~~Taxa padronizada de mortalidade por Covid-19(Não encontrado)~~
 - [ ] Óbitos Evitáveis (Necessario a extração dos Codigos CID evitaveis)
-- [x] Taxa de mortalidade infantil (por mil nascidos vivos) - Coeficiente de mortalidade infantil (óbitos por 1.000 nascidos vivos)
+- [x] Taxa de mortalidade infantil (por mil nascidos vivos) - Coeficiente de mortalidade infantil (óbitos por 1.000 nascidos vivos) -> [Codigo][indicadores_10]
 - [x] Anos Potenciais de Vida Perdidos – APVP
 - [ ] Internações por causas sensíveis à atenção básica
 
@@ -161,9 +161,15 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 
 ## [Censo Escolar 2023][mapadesigualdadesaopaulo2024]
 
-- [x] % de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental
+- [x] % de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental -> [Codigo][indicadores_7]
 
 [mapadesigualdadesaopaulo2024]: https://institutocidadessustentaveis.shinyapps.io/mapadesigualdadesaopaulo2024/
+
+## indicadores Espaciais
+
+- [x] % da população distrital a até 1 km de uma UBS -> [Codigo][indicadores_12]
+- [x] % da população distrital a até 5 km de um Hospital -> [Codigo][indicadores_13]
+
 
 ## [Mapa Desigualdade São Paulo 2024][mapadesigualdadesaopaulo2024]
 
