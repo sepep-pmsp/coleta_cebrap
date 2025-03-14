@@ -22,38 +22,38 @@ Com essa organização, os indicadores se tornam mais acessíveis e facilitam a 
 Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
 População em idade escolar até 1 km de uma escola no distrito|X|X|X|
-Matrículas no ensino integral no distrito|X|X|X|
-Pessoas responsáveis de 10 a 29 anos no distrito|Pessoa responsável pelo domicílio, 12 a 24 anos - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=P1)|[Detalhe](#pessoas-responsáveis-de-10-a-29-anos-no-distrito)|
-% da População de 65 anos ou mais|% de pessoas de 65 anos ou mais - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=F1)|
+Proporção de pessoas responsáveis de 10 a 29 anos|Proporção de pessoas responsáveis de 12 a 24 anos - Censo 2022|[:link:][indicadores_3]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=P1)|[Detalhe](#pessoas-responsáveis-de-10-a-29-anos-no-distrito)|
+% da População de 65 anos ou mais|% de pessoas de 65 anos ou mais - Censo 2022|[:link:][indicadores_8]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=F1)|X|
 População de 18 a 20 anos com médio completo no distrito|X|X|X|
 Crianças de 0 a 5 anos não frequentam escola no distrito|X|X|X|
-Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito|Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=X1)|[Detalhe](#mães-chefes-de-família-sem-fundamental-completo-e-com-filho-menor-de-15-no-distrito)|
-Mulheres de 10 a 17 anos que tiveram filhos no distrito|Nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|
+Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito|% Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|[:link:][indicadores_1]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=X1)|[Detalhe](#mães-chefes-de-família-sem-fundamental-completo-e-com-filho-menor-de-15-no-distrito)|
+% de mulheres de 10 a 17 anos que tiveram filhos|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|[:link:][indicadores_2]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|
 População de rua no distrito|X|X|X|
-Óbitos infantis no distrito|X|X|X|
-Óbitos maternos no distrito|X|X|X|
+Mortalidade infantil (óbitos por 1.000 nascidos vivos)|Mortalidade infantil (óbitos por 1.000 nascidos vivos) - SIM 2022|[:link:][indicadores_10]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|X|
+Mortalidade materna|Mortalidade materna - SIM 2022|[:link:][indicadores_9]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|X|
 Registros de violência contra a mulher no distrito|X|X|X|
 Registros de violência contra pessoas negras no distrito|X|X|X|
-Bebês com baixo peso no distrito|Bebês com baixo peso ao nascer (menos de 2,5 kg) - SINASC 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|
-Bebês nascidos de mães adolescentes no distrito|X|X|X|[Detalhe](#bebês-nascidos-de-mães-adolescentes-no-distrito)|
-Nasceram vivos com 7+ consultas no distrito|Nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - SINASC 2023|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AA1)|
-Pessoas responsáveis não alfabetizadas no distrito|Pessoa responsável pelo domicílio, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=U1)|
+Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg)|Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - SINASC 2022|[:link:][indicadores_5]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|X|
+Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|[:link:][indicadores_2]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|[Detalhe](#bebês-nascidos-de-mães-adolescentes-no-distrito)|
+Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal|Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - SINASC 2023|[:link:][indicadores_6]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AA1)|
+Proporção de pessoas responsáveis não alfabetizadas|Pessoa responsável pelo domicílio, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|[:link:][indicadores_11]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=U1)|
 Equipamentos educacionais no distrito|X|X|X|
 Taxa de distorção idade-série no distrito|X|X|X|
 Homicídios no distrito|X|X|X|
-Mulheres responsáveis com menos de 30 anos no distrito|Pessoa responsável pelo domicílio, Sexo feminino, 15 a 29 anos - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=R1)|[Detalhe](#mulheres-responsáveis-com-menos-de-30-anos-no-distrito)|
+Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos|Proporção de mulheres reponsáveis com menos de 15 a 29 anos - Censo 2022|[:link:][indicadores_4]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=R1)|[Detalhe](#mulheres-responsáveis-com-menos-de-30-anos-no-distrito)|
+% de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental|Proporção De Matrículas no Ensino em Tempo Integral Fundamental - INEP 2023|[:link:][indicadores_7]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=R1)|X|
 Taxa de distorção idade-série no distrito|X|X|X|
 Matrículas de crianças pardas no distrito|X|X|X|
 Matrículas de crianças pretas no distrito|X|X|X|
 
-### Pessoas responsáveis de 10 a 29 anos no distrito
+### Proporção de pessoas responsáveis de 10 a 29 anos no distrito
 
 No [Censo 2022][censo-2022] a faixa mais proxima que temos de dados é de 12 a 24 anos
 
 ### Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito
 
 No [Censo 2022][censo-2022] não encontramos um campo com a classicação de Pessoa responsável pelo domicílio, Sexo feminino com filhos e sem fundamental completo.
-Coletei o dados de Pessoa responsável pelo domicílio, Sexo feminino com mais de 15 anos e que não sabe ler e escrever no lugar
+Coletei o dados de Pessoa responsável pelo domicílio, Sexo feminino com mais de 15 anos e que não sabe ler e escrever no lugar.
 
 ### Mulheres responsáveis com menos de 30 anos no distrito
 
@@ -124,7 +124,7 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 - [x] % de pessoas de 65 anos ou mais
 - [x] Total de pessoas de 65 anos ou mais
 - [x] ~~% de mães chefes de família, sem fundamental completo e com filho menor de 15 anos de idade(Não encontrado no Censo)~~
-- [x] Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever
+- [x] % Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever
 - [x] Cor
 - [x] Proporção de crianças de 0 a 4 anos na população
 - [x] ~~Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos (Não encontrado no Censo)~~
@@ -172,3 +172,39 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 
 
 [mapadesigualdadesaopaulo2024]: https://institutocidadessustentaveis.shinyapps.io/mapadesigualdadesaopaulo2024/
+
+
+<!-- Políticas Sociais -->
+
+<!-- Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito -->
+[indicadores_1]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=asIcppjP882W
+
+<!-- Mulheres de 10 a 17 anos que tiveram filhos no distrito | Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) -->
+[indicadores_2]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=eK95KzpPMSwT
+
+<!-- Proporção de pessoas responsáveis de 10 a 29 anos -->
+[indicadores_3]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=iLHtxICXF1wj
+
+<!-- Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos -->
+[indicadores_4]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=lTz1c2SoQocK
+
+<!-- Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) -->
+[indicadores_5]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=ycFgO4bBOO1a
+
+<!-- Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal -->
+[indicadores_6]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=xOwdN9rCL2Ur
+
+<!-- % de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental -->
+[indicadores_7]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=ylENxfdGdLzP
+
+<!-- % de pessoas de 65 anos ou mais -->
+[indicadores_8]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=8ekPcHrWzgxd
+
+<!-- Mortalidade materna -->
+[indicadores_9]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=6lKhpWDsPzpZ
+
+<!-- Mortalidade infantil (óbitos por 1.000 nascidos vivos) -->
+[indicadores_10]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=9E8DApdVouZQ
+
+<!-- Proporção de pessoas responsáveis não alfabetizadas -->
+[indicadores_11]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=-zASKHo-X2Wx
