@@ -38,13 +38,13 @@ Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)|Propor
 Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal|Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - SINASC 2023|[:link:][indicadores_6]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AB1)|
 Proporção de pessoas responsáveis não alfabetizadas|Proporção de pessoas responsáveis não alfabetizadas 15 anos ou mais - Censo 2022|[:link:][indicadores_11]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=W1)|
 Equipamentos educacionais no distrito|X|X|X|
-Taxa de distorção idade-série no distrito|X|X|X|
+Taxa de distorção idade-série dos anos finais do Ensino Fundamental|Taxa de distorção idade-série no Ensino Fundamental da Rede Municipal de Ensino (%) - ObservaSampa 2023|[:link:][indicadores_15]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BC1)|X|
 Homicídios no distrito|X|X|X|
 Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos|Proporção de mulheres reponsáveis com menos de 15 a 29 anos - Censo 2022|[:link:][indicadores_4]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=S1)|[Detalhe](#mulheres-responsáveis-com-menos-de-30-anos-no-distrito)|
 % de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental|Proporção De Matrículas no Ensino em Tempo Integral Fundamental - INEP 2023|[:link:][indicadores_7]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AQ1)|X|
-Taxa de distorção idade-série no distrito|X|X|X|
-Matrículas de crianças pardas no distrito|X|X|X|
-Matrículas de crianças pretas no distrito|X|X|X|
+Taxa de distorção idade-série dos anos iniciais do Ensino Fundamental|Taxa de distorção idade-série no Ensino Fundamental da Rede Municipal de Ensino (%) - ObservaSampa 2023|[:link:][indicadores_15]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BC1)|X|
+Taxa de matrículas de crianças por raça e cor (pessoas pardas matriculadas / total de pessoas pardas em idade escolar no distrito)|Taxa de matrículas de crianças pardas - INEP 2023/Censo 2022|[:link:][indicadores_16]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AY1)|X|
+Taxa de matrículas de crianças por raça e cor (pessoas pretas matriculadas / total de pessoas pretas em idade escolar no distrito)|Taxa de matrículas de crianças pretas - INEP 2023/Censo 2022|[:link:][indicadores_17]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BB1)|X|
 
 ### Proporção de pessoas responsáveis de 10 a 29 anos no distrito
 
@@ -218,6 +218,15 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 <!-- % da população que vive em domicílios urbanos sem o serviço de coleta de lixo -->
 [indicadores_14]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=j9tKAV8qvaEW
 
+<!-- Taxa de distorção idade-série no Ensino Fundamental da Rede Municipal de Ensino (%) -->
+
+[indicadores_15]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=9ri0LAVJ01pX
+
+<!-- Taxa de matrículas de crianças por raça e cor (pessoas pardas matriculadas / total de pessoas pardas em idade escolar no distrito) -->
+[indicadores_16]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=VrjAg-3V8WhQ
+
+<!-- Taxa de matrículas de crianças por raça e cor (pessoas pretas matriculadas / total de pessoas pretas em idade escolar no distrito) -->
+[indicadores_17]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=RApEUj3TDihv
 
 <!-- Resiliência Climática e Sustentabilidade -->
 
