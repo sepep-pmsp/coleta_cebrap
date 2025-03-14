@@ -22,26 +22,26 @@ Com essa organização, os indicadores se tornam mais acessíveis e facilitam a 
 Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
 População em idade escolar até 1 km de uma escola no distrito|X|X|X|
-Proporção de pessoas responsáveis de 10 a 29 anos|Proporção de pessoas responsáveis de 12 a 24 anos - Censo 2022|[:link:][indicadores_3]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=P1)|[Detalhe](#pessoas-responsáveis-de-10-a-29-anos-no-distrito)|
+Proporção de pessoas responsáveis de 10 a 29 anos|Proporção de pessoas responsáveis de 12 a 24 anos - Censo 2022|[:link:][indicadores_3]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Q1)|[Detalhe](#pessoas-responsáveis-de-10-a-29-anos-no-distrito)|
 % da População de 65 anos ou mais|% de pessoas de 65 anos ou mais - Censo 2022|[:link:][indicadores_8]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=F1)|X|
 População de 18 a 20 anos com médio completo no distrito|X|X|X|
 Crianças de 0 a 5 anos não frequentam escola no distrito|X|X|X|
-Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito|% Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|[:link:][indicadores_1]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=X1)|[Detalhe](#mães-chefes-de-família-sem-fundamental-completo-e-com-filho-menor-de-15-no-distrito)|
-% de mulheres de 10 a 17 anos que tiveram filhos|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|[:link:][indicadores_2]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|
+Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito|% Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|[:link:][indicadores_1]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Y1)|[Detalhe](#mães-chefes-de-família-sem-fundamental-completo-e-com-filho-menor-de-15-no-distrito)|
+% de mulheres de 10 a 17 anos que tiveram filhos|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|[:link:][indicadores_2]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AE1)|
 População de rua no distrito|X|X|X|
-Mortalidade infantil (óbitos por 1.000 nascidos vivos)|Mortalidade infantil (óbitos por 1.000 nascidos vivos) - SIM 2022|[:link:][indicadores_10]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|X|
-Mortalidade materna|Mortalidade materna - SIM 2022|[:link:][indicadores_9]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|X|
+Mortalidade infantil (óbitos por 1.000 nascidos vivos)|Mortalidade infantil (óbitos por 1.000 nascidos vivos) - SIM 2022|[:link:][indicadores_10]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AK1)|X|
+Mortalidade materna|Mortalidade materna - SIM 2022|[:link:][indicadores_9]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AG1)|X|
 Registros de violência contra a mulher no distrito|X|X|X|
 Registros de violência contra pessoas negras no distrito|X|X|X|
-Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg)|Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - SINASC 2022|[:link:][indicadores_5]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|X|
-Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|[:link:][indicadores_2]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|[Detalhe](#bebês-nascidos-de-mães-adolescentes-no-distrito)|
-Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal|Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - SINASC 2023|[:link:][indicadores_6]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AA1)|
-Proporção de pessoas responsáveis não alfabetizadas|Pessoa responsável pelo domicílio, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|[:link:][indicadores_11]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=U1)|
+Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg)|Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - SINASC 2022|[:link:][indicadores_5]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AF1)|X|
+Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|[:link:][indicadores_2]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AE1)|[Detalhe](#bebês-nascidos-de-mães-adolescentes-no-distrito)|
+Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal|Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - SINASC 2023|[:link:][indicadores_6]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AB1)|
+Proporção de pessoas responsáveis não alfabetizadas|Proporção de pessoas responsáveis não alfabetizadas 15 anos ou mais - Censo 2022|[:link:][indicadores_11]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=W1)|
 Equipamentos educacionais no distrito|X|X|X|
 Taxa de distorção idade-série no distrito|X|X|X|
 Homicídios no distrito|X|X|X|
-Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos|Proporção de mulheres reponsáveis com menos de 15 a 29 anos - Censo 2022|[:link:][indicadores_4]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=R1)|[Detalhe](#mulheres-responsáveis-com-menos-de-30-anos-no-distrito)|
-% de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental|Proporção De Matrículas no Ensino em Tempo Integral Fundamental - INEP 2023|[:link:][indicadores_7]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=R1)|X|
+Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos|Proporção de mulheres reponsáveis com menos de 15 a 29 anos - Censo 2022|[:link:][indicadores_4]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=S1)|[Detalhe](#mulheres-responsáveis-com-menos-de-30-anos-no-distrito)|
+% de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental|Proporção De Matrículas no Ensino em Tempo Integral Fundamental - INEP 2023|[:link:][indicadores_7]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AQ1)|X|
 Taxa de distorção idade-série no distrito|X|X|X|
 Matrículas de crianças pardas no distrito|X|X|X|
 Matrículas de crianças pretas no distrito|X|X|X|
@@ -97,9 +97,9 @@ Taxa de crimes de oportunidade|X|X|X|X|
 
 |Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
-% da população distrital a até 1 km de uma UBS|% da população distrital a até 1 km de uma UBS|[:link:][indicadores_12]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AR1)|
-% da população distrital a até 5 km de um Hospital|% da população distrital a até 5 km de um Hospital|[:link:][indicadores_13]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AT1)|
-% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|Proporção que vive em domicílios urbanos com o serviço de coleta de lixo - Censo 2022|[:link:][indicadores_14]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Z1)|[Detalhe](#-da-população-que-vive-em-domicílios-urbanos-sem-o-serviço-de-coleta-de-lixo)|
+% da população distrital a até 1 km de uma UBS|% da população distrital a até 1 km de uma UBS|[:link:][indicadores_12]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AT1)|
+% da população distrital a até 5 km de um Hospital|% da população distrital a até 5 km de um Hospital|[:link:][indicadores_13]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AV1)|
+% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|Proporção que vive em domicílios urbanos com o serviço de coleta de lixo - Censo 2022|[:link:][indicadores_14]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AA1)|[Detalhe](#-da-população-que-vive-em-domicílios-urbanos-sem-o-serviço-de-coleta-de-lixo)|
 Anos Potenciais de Vida Perdidos – APVP|X|X|X|X|
 Área de inundação no território / total de área do distrito|X|X|X|X|
 Área verde pública por habitante (m²/hab)|X|X|X|X|
@@ -165,7 +165,7 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 
 [mapadesigualdadesaopaulo2024]: https://institutocidadessustentaveis.shinyapps.io/mapadesigualdadesaopaulo2024/
 
-## indicadores Espaciais
+## Indicadores Espaciais
 
 - [x] % da população distrital a até 1 km de uma UBS -> [Codigo][indicadores_12]
 - [x] % da população distrital a até 5 km de um Hospital -> [Codigo][indicadores_13]
