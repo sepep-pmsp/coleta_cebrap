@@ -97,9 +97,9 @@ Taxa de crimes de oportunidade|X|X|X|X|
 
 |Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
 |:-:|:-:|:-:|:-:|:-:|
-% da população distrital a até 1 km de uma UBS|% da população distrital a até 1 km de uma UBS|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AR1)|
-% da população distrital a até 5 km de um Hospital|% da população distrital a até 5 km de um Hospital|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AT1)|
-% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|Proporção que vive em domicílios urbanos com o serviço de coleta de lixo - Censo 2022|X|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Z1)|[Detalhe](#-da-população-que-vive-em-domicílios-urbanos-sem-o-serviço-de-coleta-de-lixo)|
+% da população distrital a até 1 km de uma UBS|% da população distrital a até 1 km de uma UBS|[:link:][indicadores_12]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AR1)|
+% da população distrital a até 5 km de um Hospital|% da população distrital a até 5 km de um Hospital|[:link:][indicadores_13]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=AT1)|
+% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|Proporção que vive em domicílios urbanos com o serviço de coleta de lixo - Censo 2022|[:link:][indicadores_14]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681&range=Z1)|[Detalhe](#-da-população-que-vive-em-domicílios-urbanos-sem-o-serviço-de-coleta-de-lixo)|
 Anos Potenciais de Vida Perdidos – APVP|X|X|X|X|
 Área de inundação no território / total de área do distrito|X|X|X|X|
 Área verde pública por habitante (m²/hab)|X|X|X|X|
@@ -208,3 +208,15 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 
 <!-- Proporção de pessoas responsáveis não alfabetizadas -->
 [indicadores_11]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=-zASKHo-X2Wx
+
+<!-- % da população que vive em domicílios urbanos sem o serviço de coleta de lixo -->
+[indicadores_14]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=j9tKAV8qvaEW
+
+
+<!-- Resiliência Climática e Sustentabilidade -->
+
+<!-- % da população distrital a até 1 km de uma UBS -->
+[indicadores_12]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=cBf37L5ein3R
+
+<!-- % da população distrital a até 5 km de um Hospital -->
+[indicadores_13]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=zuqhT1AXfgcL
