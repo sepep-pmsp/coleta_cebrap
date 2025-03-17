@@ -45,6 +45,9 @@ Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos|Propo
 Taxa de distorção idade-série dos anos iniciais do Ensino Fundamental|Taxa de distorção idade-série no Ensino Fundamental da Rede Municipal de Ensino (%) - ObservaSampa 2023|[:link:][indicadores_15]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BC1)|X|
 Taxa de matrículas de crianças por raça e cor (pessoas pardas matriculadas / total de pessoas pardas em idade escolar no distrito)|Taxa de matrículas de crianças pardas - INEP 2023/Censo 2022|[:link:][indicadores_16]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AY1)|X|
 Taxa de matrículas de crianças por raça e cor (pessoas pretas matriculadas / total de pessoas pretas em idade escolar no distrito)|Taxa de matrículas de crianças pretas - INEP 2023/Censo 2022|[:link:][indicadores_17]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BB1)|X|
+Taxa de matrículas de crianças por raça e cor (pessoas amarelas matriculadas / total de pessoas amarelas em idade escolar no distrito)|Taxa de matrículas de crianças amarelas - INEP 2023/Censo 2022|[:link:][indicadores_18]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BI1)|X|
+Taxa de matrículas de crianças por raça e cor (pessoas brancas matriculadas / total de pessoas brancas em idade escolar no distrito)|Taxa de matrículas de crianças brancas - INEP 2023/Censo 2022|[:link:][indicadores_19]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BF1)|X|
+Taxa de matrículas de crianças por raça e cor (pessoas indigenas matriculadas / total de pessoas indigenas em idade escolar no distrito)|Taxa de matrículas de crianças indigenas - INEP 2023/Censo 2022|[:link:][indicadores_20]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BL1)|X|
 
 ### Proporção de pessoas responsáveis de 10 a 29 anos no distrito
 
@@ -227,6 +230,15 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 
 <!-- Taxa de matrículas de crianças por raça e cor (pessoas pretas matriculadas / total de pessoas pretas em idade escolar no distrito) -->
 [indicadores_17]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=RApEUj3TDihv
+
+<!-- Taxa de matrículas de crianças por raça e cor (pessoas amarelas matriculadas / total de pessoas amarelas em idade escolar no distrito) -->
+[indicadores_18]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Q2QpG5gn-5OU
+
+<!-- Taxa de matrículas de crianças por raça e cor (pessoas brancas matriculadas / total de pessoas brancas em idade escolar no distrito) -->
+[indicadores_19]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=h9jHek43CqKc
+
+<!-- Taxa de matrículas de crianças por raça e cor (pessoas indigenas matriculadas / total de pessoas indigenas em idade escolar no distrito) -->
+[indicadores_20]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=jUC9xqsIE-mq
 
 <!-- Resiliência Climática e Sustentabilidade -->
 
