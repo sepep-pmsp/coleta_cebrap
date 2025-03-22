@@ -251,10 +251,10 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 [indicadores_23]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=IlPIvhaDMOGv&uniqifier=1
 
 <!-- Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos iniciais (%) -->
-[indicadores_24]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=9ri0LAVJ01pX
+[indicadores_24]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=gAebiUlCo9gq
 
 <!-- Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos finais (%) -->
-[indicadores_25]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=9ri0LAVJ01pX
+[indicadores_25]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=7aDTrY-DpFTB
 
 <!-- Resiliência Climática e Sustentabilidade -->
 
