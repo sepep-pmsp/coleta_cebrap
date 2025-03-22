@@ -33,16 +33,16 @@ Mortalidade infantil (óbitos por 1.000 nascidos vivos)|Mortalidade infantil (ó
 Mortalidade materna|Mortalidade materna - SIM 2022|[:link:][indicadores_9]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AG1)|X|
 Registros de violência contra a mulher no distrito|X|X|X|
 Registros de violência contra pessoas negras no distrito|X|X|X|
-Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg)|Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - SINASC 2022|[:link:][indicadores_5]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AF1)|X|
-Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|[:link:][indicadores_2]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AE1)|[Detalhe](#bebês-nascidos-de-mães-adolescentes-no-distrito)|
-Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal|Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - SINASC 2023|[:link:][indicadores_6]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AB1)|
+Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg)|Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - Tabnet DATASUS 2024|[:link:][indicadores_22]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BQ1)|X|
+Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - Tabnet DATASUS 2024|[:link:][indicadores_23]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BS1)|[Detalhe](#bebês-nascidos-de-mães-adolescentes-no-distrito)|
+Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal|Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - Tabnet DATASUS 2024|[:link:][indicadores_21]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BO1)|
 Proporção de pessoas responsáveis não alfabetizadas|Proporção de pessoas responsáveis não alfabetizadas 15 anos ou mais - Censo 2022|[:link:][indicadores_11]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=W1)|
 Equipamentos educacionais no distrito|X|X|X|
-Taxa de distorção idade-série dos anos finais do Ensino Fundamental|Taxa de distorção idade-série no Ensino Fundamental da Rede Municipal de Ensino (%) - ObservaSampa 2023|[:link:][indicadores_15]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BC1)|X|
+Taxa de distorção idade-série dos anos finais do Ensino Fundamental|Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos finais (%) - ObservaSampa 2023|[:link:][indicadores_25]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BU1)|X|
 Homicídios no distrito|X|X|X|
 Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos|Proporção de mulheres reponsáveis com menos de 15 a 29 anos - Censo 2022|[:link:][indicadores_4]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=S1)|[Detalhe](#mulheres-responsáveis-com-menos-de-30-anos-no-distrito)|
 % de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental|Proporção De Matrículas no Ensino em Tempo Integral Fundamental - INEP 2023|[:link:][indicadores_7]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AQ1)|X|
-Taxa de distorção idade-série dos anos iniciais do Ensino Fundamental|Taxa de distorção idade-série no Ensino Fundamental da Rede Municipal de Ensino (%) - ObservaSampa 2023|[:link:][indicadores_15]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BC1)|X|
+Taxa de distorção idade-série dos anos iniciais do Ensino Fundamental|Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos iniciais (%) - ObservaSampa 2023|[:link:][indicadores_24]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BT1)|X|
 Taxa de matrículas de crianças por raça e cor (pessoas pardas matriculadas / total de pessoas pardas em idade escolar no distrito)|Taxa de matrículas de crianças pardas - INEP 2023/Censo 2022|[:link:][indicadores_16]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AY1)|X|
 Taxa de matrículas de crianças por raça e cor (pessoas pretas matriculadas / total de pessoas pretas em idade escolar no distrito)|Taxa de matrículas de crianças pretas - INEP 2023/Censo 2022|[:link:][indicadores_17]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BB1)|X|
 Taxa de matrículas de crianças por raça e cor (pessoas amarelas matriculadas / total de pessoas amarelas em idade escolar no distrito)|Taxa de matrículas de crianças amarelas - INEP 2023/Censo 2022|[:link:][indicadores_18]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BI1)|X|
@@ -239,6 +239,22 @@ No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de
 
 <!-- Taxa de matrículas de crianças por raça e cor (pessoas indigenas matriculadas / total de pessoas indigenas em idade escolar no distrito) -->
 [indicadores_20]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=jUC9xqsIE-mq
+
+
+<!-- Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - Tabnet DATASUS 2024 -->
+[indicadores_21]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=uAGYq3rLwomF&uniqifier=1
+
+<!-- Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - Tabnet DATASUS 2024 -->
+[indicadores_22]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Sfeenf2N7Zfr&uniqifier=1
+
+<!-- Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - Tabnet DATASUS 2024 -->
+[indicadores_23]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=IlPIvhaDMOGv&uniqifier=1
+
+<!-- Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos iniciais (%) -->
+[indicadores_24]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=gAebiUlCo9gq
+
+<!-- Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos finais (%) -->
+[indicadores_25]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=7aDTrY-DpFTB
 
 <!-- Resiliência Climática e Sustentabilidade -->
 
