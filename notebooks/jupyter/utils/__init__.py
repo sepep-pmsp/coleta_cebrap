@@ -5,4 +5,5 @@ from .misc import (
     check_crs,
     diretorio,
     get_data_diretorio,
+    dir_simple_txt
 )

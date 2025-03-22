@@ -5,6 +5,22 @@ from logging import (
 )
 import os
 
+def dir_simple_txt()-> str:
+    '''
+    Esta função só é útil enquanto a função da bibliteca configuracoes_notebooks não retornar o diretório
+    '''
+    
+    diretorio_atual= os.getcwd()
+    projeto_path = os.path.join(
+        diretorio_atual,
+        '..',
+        '..',
+        '..',
+        '..'
+    )
+    root_path = os.path.abspath(projeto_path)
+    return str(root_path)
+
 def diretorio(diretorio_atual:str)-> str:
     diretorio = os.path.abspath(
         os.path.join(
@@ -15,14 +31,13 @@ def diretorio(diretorio_atual:str)-> str:
     )
     return diretorio
 
-def get_data_diretorio(project_path:str)->str:
-    
+def get_data_diretorio()->str:
+    root_path = dir_simple_txt()
     data_path = os.path.join(
-        project_path,
-        '..',
-        '..',
+        root_path,
         'data'
     )
+    return str(data_path)
     
     
     return str(data_path)
