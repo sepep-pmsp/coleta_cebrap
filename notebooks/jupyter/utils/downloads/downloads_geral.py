@@ -19,14 +19,22 @@ from utils import (
     save_parquet_excel,
     get_data_diretorio
 )
+from typing import Optional
+
 
 def read_zip_file(name_cache:str, logger:Logger=getLogger()):
-                gdf= gpd.read_file(
-                    f'zip:///{name_cache}'
-                )
-                        
-                logger.info("Arquivo lido com sucesso!")
+    
+    print('helloo')
+    print(name_cache)
 
+    gdf= gpd.read_file(
+        f'zip://{name_cache}'
+    )
+
+            
+    logger.info("Arquivo lido com sucesso!")
+
+    return gdf
 
 def save_zip_file(
     url:str, 
@@ -101,17 +109,21 @@ def _prepare_cache_single(
     download_to_temporary_cache(url, name_cache, file_path)
     
     
-    gdf= gpd.read_file(
-        f'zip://{file_path}'
-    )
+    gdf= read_zip_file(file_path)
     logger.info("Leitura do arquivo concluída.")
     return gdf
 
-def _create_paginated_url(url:str, max_features:int, start_index:str)->str:
+def _create_paginated_url(url:str, max_features:int, start_index:str, sort_by:Optional[str]=None)->str:
 
-    return f"{url}&maxFeatures={max_features}&startIndex={start_index}"
+    url = f"{url}&maxFeatures={max_features}&startIndex={start_index}"
 
-def _prepare_cache_paginated(url:str, name_feature:str, cache_path:str, logger:Logger=getLogger(), max_features=2000) -> gpd.GeoDataFrame:
+    if sort_by is not None:
+        url = url + f'&sortBy={sort_by}'
+
+    return url
+
+def _prepare_cache_paginated(url:str, name_feature:str, cache_path:str, logger:Logger=getLogger(), 
+                             max_features=2000, sort_by:Optional[str]=None) -> gpd.GeoDataFrame:
 
     geodfs = []
     
@@ -119,7 +131,7 @@ def _prepare_cache_paginated(url:str, name_feature:str, cache_path:str, logger:L
     page=1
     
     while True:
-        url_req = _create_paginated_url(url, max_features, start_index)
+        url_req = _create_paginated_url(url, max_features, start_index, sort_by=sort_by)
         name_feature_req = f"{name_feature}_pg{page}"
         print(url_req)
         print(name_feature_req)
@@ -149,9 +161,10 @@ def _prepare_cache(
     url:str, 
     name_feature:str, 
     cache_path:str, 
-    paginate=False, 
+    paginate=False,
     logger:Logger=getLogger(), 
-    max_features=2000
+    max_features=2000,
+    sort_by:Optional[str]=None
 ) -> gpd.GeoDataFrame:
 
     #early return para quando nao faz sentido paginar
@@ -168,7 +181,8 @@ def _prepare_cache(
         name_feature, 
         cache_path,
         logger,
-        max_features
+        max_features,
+        sort_by=sort_by
     )
    
 
