@@ -20,7 +20,7 @@ def paginated_load_cache(
         f'{name_feature}_concat.parquet'
     )
 
-    if os.path.exists(cache_full_path):
+    if paginate and os.path.exists(cache_full_path):
         print('Carregando arquivo em cache')
         gdf = gpd.read_parquet(cache_full_path)
     else:
