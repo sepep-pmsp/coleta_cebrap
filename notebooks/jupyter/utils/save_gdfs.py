@@ -26,5 +26,5 @@ def save_parquet_excel(
     )
     gdf.to_excel(
         join(full_path, f'{fname}.xlsx'),
-        index=False
+        index=True
     )
