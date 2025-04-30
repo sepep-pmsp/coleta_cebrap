@@ -25,7 +25,7 @@ Tema|Notebook|Parquet|Excel - Google|Documentação|
 [Censo-Excel-Google]: https://docs.google.com/spreadsheets/d/1DmwjVZN6-JCkBcyCk9vjl8IHpKY3sJ4Q/edit?usp=sharing&ouid=115854210799010302684&rtpof=true&sd=true
 
 [dimensoes_sp-notebook]: notebooks/colab/Pol%C3%ADticas%20Sociais/%5Bcebrap%5Dpoliticas_sociais.ipynb
-[dimensoes_sp-excel]: https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681
+[dimensoes_sp-excel]: https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672
 [dimensoes_sp-doc]: docs/dimensoes_sp.md
 
 [Inep-notebook]: notebooks/colab/[cebrap]coleta_dados_educacao.ipynb
