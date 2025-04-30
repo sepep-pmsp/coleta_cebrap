@@ -1,7 +1,10 @@
 # Documentação dos indicadores
 Documentação de indicadores - [`Dimensões SP`][politicas-sociais-notebook]
 
+Mapeamento dos indicadores ➡️ [🗺️](https://docs.google.com/spreadsheets/d/1Vz0dZ6n1PKcYgvQMSBRcYdbSVWHxgbGL/edit?pli=1&gid=250491946#gid=250491946)
+
 [politicas-sociais-notebook]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Ry7c-tpeunMB
+[mapeamento]: https://docs.google.com/spreadsheets/d/1Vz0dZ6n1PKcYgvQMSBRcYdbSVWHxgbGL/edit?pli=1&gid=250491946#gid=250491946
 
 # Index
 - [Dimensões](#dimensões): 
