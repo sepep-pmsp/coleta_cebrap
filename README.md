@@ -1,4 +1,14 @@
-# coleta_cebrap
+<p align="center">
+    <a href="https://basedosdados.org">
+        <img src="https://avatars.githubusercontent.com/u/137204683" width="340" alt="São Paulo">
+    </a>
+</p>
+
+<p align="center">
+    <em>Secretaria Executiva de Planejamento e Entregas Prioritárias - Prefeitura de São Paulo</em>
+</p>
+
+# Descrição
 Repositório para armazenar notebooks de coleta, tratamento e construção de indicadores
 
 ## Index
