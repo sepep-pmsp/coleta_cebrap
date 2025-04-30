@@ -5,7 +5,7 @@ Repositório para armazenar notebooks de coleta, tratamento e construção de in
 Tema|Notebook|Parquet|Excel - Google|Documentação|
 |:-:|:-:|:-:|:-:|:-:|
 |Todos Indicadores|X|X|[:link:][todos-indicadores-excel-google]|X|
-|Dimensões SP|[:link:][dimensoes_sp-notebook]|X|[:link:][todos-indicadores-excel-google]|[:link:][dimensoes_sp-doc]|
+|Dimensões SP|[:link:][dimensoes_sp-notebook]|X|[:link:][dimensoes_sp-excel]|[:link:][dimensoes_sp-doc]|
 |Censo|[:link:][Censo-notebook]|[:link:][Censo-parquet]|[:link:][Censo-Excel-Google]|X|
 |Inep|[:link:][Inep-notebook]|[:link:][Inep-parquet]|X|X|
 |Indicadores Educação|[:link:][Indicadores-Educação-notebook]|X|[:link:][Indicadores-Educação-Excel-Google]|X|
