@@ -5,7 +5,7 @@ Repositório para armazenar notebooks de coleta, tratamento e construção de in
 Tema|Notebook|Parquet|Excel - Google|Documentação|
 |:-:|:-:|:-:|:-:|:-:|
 |Todos Indicadores|X|X|[:link:][todos-indicadores-excel-google]|X|
-|Políticas Sociais|[:link:][politicas-sociais-notebook]|X|[:link:][todos-indicadores-excel-google]|[:link:][politicas-sociais-doc]|
+|Dimensões SP|[:link:][dimensoes_sp-notebook]|X|[:link:][todos-indicadores-excel-google]|[:link:][dimensoes_sp-doc]|
 |Censo|[:link:][Censo-notebook]|[:link:][Censo-parquet]|[:link:][Censo-Excel-Google]|X|
 |Inep|[:link:][Inep-notebook]|[:link:][Inep-parquet]|X|X|
 |Indicadores Educação|[:link:][Indicadores-Educação-notebook]|X|[:link:][Indicadores-Educação-Excel-Google]|X|
@@ -24,9 +24,9 @@ Tema|Notebook|Parquet|Excel - Google|Documentação|
 [Censo-parquet]: https://drive.google.com/file/d/1WNv6iCmwaJzcXZvR2eHJSUcJvLUgnB1p/view?usp=sharing
 [Censo-Excel-Google]: https://docs.google.com/spreadsheets/d/1DmwjVZN6-JCkBcyCk9vjl8IHpKY3sJ4Q/edit?usp=sharing&ouid=115854210799010302684&rtpof=true&sd=true
 
-[politicas-sociais-notebook]: notebooks/colab/Pol%C3%ADticas%20Sociais/%5Bcebrap%5Dpoliticas_sociais.ipynb
-[politicas-sociais-excel]: https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681
-[politicas-sociais-doc]: docs/README.md
+[dimensoes_sp-notebook]: notebooks/colab/Pol%C3%ADticas%20Sociais/%5Bcebrap%5Dpoliticas_sociais.ipynb
+[dimensoes_sp-excel]: https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=204225681#gid=204225681
+[dimensoes_sp-doc]: docs/dimensoes_sp.md
 
 [Inep-notebook]: notebooks/colab/[cebrap]coleta_dados_educacao.ipynb
 [Inep-parquet]: https://drive.google.com/file/d/1VCEejCcjFTEWfzPnCN4RWltAVZ3sZXxd/view?usp=sharing
