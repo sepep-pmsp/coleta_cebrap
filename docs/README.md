@@ -1,7 +1,7 @@
 # Documentação dos indicadores
-Documentação de indicadores da dimenção - [`Desenvolvimento Social`][politicas-sociais-notebook], Desenvolvimento Econômico Integrado e Desenvolvimento Urbano Sustentável
+Documentação de indicadores - [`Dimensões SP`][politicas-sociais-notebook]
 
-[politicas-sociais-notebook]: notebooks/colab/Pol%C3%ADticas%20Sociais/%5Bcebrap%5Dpoliticas_sociais.ipynb
+[politicas-sociais-notebook]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Ry7c-tpeunMB
 
 # Index
 - [Dimensões](#dimensões): 
