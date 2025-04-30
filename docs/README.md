@@ -5,10 +5,9 @@ Documentação de indicadores da dimenção - [`Políticas Sociais`][politicas-s
 
 # Index
 - [Dimensões](#dimensões): 
-    - [Políticas Sociais](#políticas-sociais)
-    - [Desenvolvimento Urbano](#desenvolvimento-urbano)
-    - [Resiliência Climática e Sustentabilidade](#resiliência-climática-e-sustentabilidade)
-- [Todos Indicadores](#todos-indicadores)
+    - [Políticas Sociais](#desenvolvimento-social)
+    - [Desenvolvimento Urbano](#desenvolvimento-econômico-integrado)
+    - [Resiliência Climática e Sustentabilidade](#desenvolvimento-urbano-sustentável)
 
 # Dimensões
 
@@ -18,268 +17,76 @@ Cada um desses temas aborda áreas essenciais para o desenvolvimento e o bem-est
 
 Com essa organização, os indicadores se tornam mais acessíveis e facilitam a análise das diferentes dimensões que impactam o desenvolvimento social, econômico e ambiental, promovendo uma visão integrada e mais eficaz para as tomadas de decisão.
 
-## Políticas Sociais
-Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
-|:-:|:-:|:-:|:-:|:-:|
-Proporção de pessoas responsáveis de 10 a 29 anos|Proporção de pessoas responsáveis de 12 a 24 anos - Censo 2022|[:link:][indicadores_3]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=Q1)|[Detalhe](#proporção-de-pessoas-responsáveis-de-10-a-29-anos-no-distrito)|
-% da População de 65 anos ou mais|% de pessoas de 65 anos ou mais - Censo 2022|[:link:][indicadores_8]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=F1)|X|
-% de 18 a 22 anos com médio completo|% de 18 a 22 anos com médio completo - Origem Destino 2023|[:link:][indicadores_28]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BY1)|X|
-Crianças de 0 a 5 anos não frequentam escola no distrito|X|X|X|
-Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito|% Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022|[:link:][indicadores_1]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=Y1)|[Detalhe](#mães-chefes-de-família-sem-fundamental-completo-e-com-filho-menor-de-15-no-distrito)|
-% de mulheres de 10 a 17 anos que tiveram filhos|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - SINASC 2023|[:link:][indicadores_2]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AE1)|
-Incidência distrital da presença da população de rua na cidade de São Paulo|Incidência distrital da presença da população de rua na cidade de São Paulo - Censo de População de Rua 2021|[:link:][indicadores_26]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=GC1)|X|
-Mortalidade infantil (óbitos por 1.000 nascidos vivos)|Mortalidade infantil (óbitos por 1.000 nascidos vivos) - SIM 2022|[:link:][indicadores_10]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AK1)|X|
-Mortalidade materna|Mortalidade materna - SIM 2022|[:link:][indicadores_9]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AG1)|X|
-Número de registro de agravos de notificação de violência contra a mulher por 100 mil mulheres|Número de registro de agravos de notificação de violência contra a mulher por 100 mil mulheres - SINAN 2023|[:link:][indicadores_30]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=CC1)|X|
-Número de registro de agravos de notificação de violência contra a pretos por 100 mil pessoas pretas|Número de registro de agravos de notificação de violência contra a pretos por 100 mil pessoas pretas - SINAN 2023|[:link:][indicadores_31]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=CF1)|X|
-Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg)|Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - Tabnet DATASUS 2024|[:link:][indicadores_22]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BQ1)|X|
-Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)|Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - Tabnet DATASUS 2024|[:link:][indicadores_23]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BS1)|[Detalhe](#bebês-nascidos-de-mães-adolescentes-no-distrito)|
-Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal|Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - Tabnet DATASUS 2024|[:link:][indicadores_21]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BO1)|
-Proporção de pessoas responsáveis não alfabetizadas|Proporção de pessoas responsáveis não alfabetizadas 15 anos ou mais - Censo 2022|[:link:][indicadores_11]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=W1)|
-Quantidade de equipamentos educacionais por número de alunos matriculados|Quantidade de equipamentos educacionais por número de alunos matriculados - INEP 2023|[:link:][indicadores_29]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BV1)|X|
-Taxa de distorção idade-série dos anos finais do Ensino Fundamental|Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos finais (%) - ObservaSampa 2023|[:link:][indicadores_25]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BU1)|X|
-Taxa de homicídio por 100 mil hab|Taxa de homicídio por 100 mil hab - Secretaria da Segurança Pública 2024|[:link:][indicadores_27]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BZ1)|X|
-Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos|Proporção de mulheres reponsáveis com menos de 15 a 29 anos - Censo 2022|[:link:][indicadores_4]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=S1)|[Detalhe](#mulheres-responsáveis-com-menos-de-30-anos-no-distrito)|
-% de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental|Proporção De Matrículas no Ensino em Tempo Integral Fundamental - INEP 2023|[:link:][indicadores_7]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AQ1)|X|
-Taxa de distorção idade-série dos anos iniciais do Ensino Fundamental|Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos iniciais (%) - ObservaSampa 2023|[:link:][indicadores_24]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BT1)|X|
-Taxa de matrículas de crianças por raça e cor (pessoas pardas matriculadas / total de pessoas pardas em idade escolar no distrito)|Taxa de matrículas de crianças pardas - INEP 2023/Censo 2022|[:link:][indicadores_16]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AY1)|X|
-Taxa de matrículas de crianças por raça e cor (pessoas pretas matriculadas / total de pessoas pretas em idade escolar no distrito)|Taxa de matrículas de crianças pretas - INEP 2023/Censo 2022|[:link:][indicadores_17]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BB1)|X|
-Taxa de matrículas de crianças por raça e cor (pessoas amarelas matriculadas / total de pessoas amarelas em idade escolar no distrito)|Taxa de matrículas de crianças amarelas - INEP 2023/Censo 2022|[:link:][indicadores_18]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BI1)|X|
-Taxa de matrículas de crianças por raça e cor (pessoas brancas matriculadas / total de pessoas brancas em idade escolar no distrito)|Taxa de matrículas de crianças brancas - INEP 2023/Censo 2022|[:link:][indicadores_19]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BF1)|X|
-Taxa de matrículas de crianças por raça e cor (pessoas indigenas matriculadas / total de pessoas indigenas em idade escolar no distrito)|Taxa de matrículas de crianças indigenas - INEP 2023/Censo 2022|[:link:][indicadores_20]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=BL1)|X|
-Óbitos Evitáveis|% Óbitos Evitáveis - SIM 2022|[:link:][indicadores_32]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=CJ1)|X|
+## Desenvolvimento Social
+| Nome Original                                                                                                                                                                                                                     | Dimensão                   | Nome Indicador Final                                                                                                    | Link Excel                                                                                                                    | Link Notebook                                                                                             |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
+| % da população distrital com 65 anos ou mais                                                                                                                                                                                      | 1 - Desenvolvimento Social | % de pessoas de 65 anos ou mais - Censo 2022                                                                            | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=F1)  | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=jBIrJRPRzvMP) |
+| Proporção de pessoas responsáveis de 10 a 29 anos                                                                                                                                                                                 | 1 - Desenvolvimento Social | Proporção de pessoas responsáveis de 12 a 24 anos - Censo 2022                                                          | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=Q1)  | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=lFUxMup5F1wm) |
+| Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos                                                                                                                                                            | 1 - Desenvolvimento Social | Proporção de mulheres reponsáveis com menos de 15 a 29 anos - Censo 2022                                                | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=S1)  | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=zkxQ5RLiQocL) |
+| Proporção de pessoas responsáveis não alfabetizadas 15 anos ou mais                                                                                                                                                               | 1 - Desenvolvimento Social | Proporção de pessoas responsáveis não alfabetizadas 15 anos ou mais - Censo 2022                                        | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=W1)  | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=gyMIqrScvZav) |
+| % de mães chefes de família, sem fundamental completo e com filho menor de 15 anos de idade                                                                                                                                       | 1 - Desenvolvimento Social | % Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever - Censo 2022       | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=Y1)  | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=FnnyLDXy8-CF) |
+| Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal                                                                                                                                                  | 1 - Desenvolvimento Social | Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - SINASC 2023                          | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=AB1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=uAGYq3rLwomF) |
+| Mortalidade materna                                                                                                                                                                                                               | 1 - Desenvolvimento Social | Mortalidade materna - SIM 2022                                                                                          | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=AG1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=68ekvBXcPwgs) |
+| Mortalidade infantil (óbitos por 1.000 nascidos vivos)                                                                                                                                                                            | 1 - Desenvolvimento Social | Mortalidade infantil (óbitos por 1.000 nascidos vivos) - SIM 2022                                                       | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=AK1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=mowg4ABnc5ws) |
+| Anos Potenciais de Vida Perdidos – APVP                                                                                                                                                                                           | 1 - Desenvolvimento Social | Anos Potenciais de Vida Perdidos(APVP) - Tabnet 2020                                                                    | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=AL1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=3AKk6Pa1im3d) |
+| % da população distrital a até 1 km de uma UBS - Censo 2022/CNES 2025                                                                                                                                                             | 1 - Desenvolvimento Social | % da população distrital a até 1 km de uma UBS                                                                          | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=AT1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=06iDsq82XH5Z) |
+| % da população distrital a até 5 km de um Hospital - Censo 2022/CNES 2025                                                                                                                                                         | 1 - Desenvolvimento Social | % da população distrital a até 5 km de um Hospital                                                                      | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=AV1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=06iDsq82XH5Z) |
+| Taxa de matrículas de crianças por raça e cor (pessoas pardas matriculadas / total de pessoas pardas em idade escolar no distrito)                                                                                                | 1 - Desenvolvimento Social | Taxa de matrículas de crianças pardas - INEP 2023/Censo 2022                                                            | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=AY1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=MQWQxgoFjuSW) |
+| Taxa de matrículas de crianças por raça e cor (pessoas pretas matriculadas / total de pessoas pretas em idade escolar no distrito)                                                                                                | 1 - Desenvolvimento Social | Taxa de matrículas de crianças pretas - INEP 2023/Censo 2022                                                            | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=BB1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=SL1jYBjO8b5h) |
+| Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg)                                                                                                                                                                     | 1 - Desenvolvimento Social | Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - Tabnet DATASUS 2024                                     | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=BQ1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=ypaaBixlDihv) |
+| Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos)                                                                                                                                                             | 1 - Desenvolvimento Social | Bebês nascidos vivos de mães adolescentes (10 a 19 anos) - Tabnet DATASUS 2024                                          | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=BR1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Sfeenf2N7Zfr) |
+| Taxa de distorção idade-série dos anos iniciais do Ensino Fundamental                                                                                                                                                             | 1 - Desenvolvimento Social | Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos iniciais (%) - ObservaSampa 2023               | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=BT1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Sfeenf2N7Zfr) |
+| Taxa de distorção idade-série dos anos finais do Ensino Fundamental                                                                                                                                                               | 1 - Desenvolvimento Social | Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos finais (%) - ObservaSampa 2023                 | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=BU1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=IlPIvhaDMOGv) |
+| Quantidade de equipamentos educacionais por número de alunos matriculados                                                                                                                                                         | 1 - Desenvolvimento Social | Quantidade de equipamentos educacionais por número de alunos matriculados - INEP 2023                                   | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=BV1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=gAebiUlCo9gq) |
+| % de 18 a 22 anos com médio completo                                                                                                                                                                                              | 1 - Desenvolvimento Social | % de 18 a 22 anos com médio completo - Origem Destino 2023                                                              | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=BY1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=7aDTrY-DpFTB) |
+| Taxa de homicídio por 100 mil hab                                                                                                                                                                                                 | 1 - Desenvolvimento Social | Taxa de homicídio por 100 mil hab - Secretaria da Segurança Pública 2024                                                | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=BZ1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=vRi3gtn_5uUi) |
+| Número de registro de agravos de notificação de violência contra a mulher (todas as violências) / 100 mil mulheres (usado Coeficiente de mulheres vítimas de violência - Mapa Desigualdade São Paulo 2024)                        | 1 - Desenvolvimento Social | Número de registro de agravos de notificação de violência contra a mulher por 100 mil mulheres - SINAN 2024             | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CC1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=plOBATJm6v8t) |
+| Número de registro de agravos de notificação de violência contra pessoas negras (todas as violências) / 100 mil pessoas negras (usado: Coeficiente de pessoas vítimas de violência de racismo - Mapa Desigualdade São Paulo 2024) | 1 - Desenvolvimento Social | Número de registro de agravos de notificação de violência contra pessoas negras por 100 mil pessoas negras - SINAN 2024 | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CF1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=z3yKSAMJLtOC) |
+| Incidência distrital da presença da população de rua na cidade de São Paulo (número absoluto)                                                                                                                                     | 1 - Desenvolvimento Social | Incidência distrital da presença da população de rua na cidade de São Paulo - Censo de População de Rua 2021            | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CG1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=s_wgCAfRBO0Z) |
+| Óbitos Evitáveis                                                                                                                                                                                                                  | 1 - Desenvolvimento Social | % Óbitos Evitáveis - SIM 2022                                                                                           | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CJ1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=fV8UxE8lcTb-) |
+| % de crianças de 0 a 5 anos que não frequentam a escola                                                                                                                                                                           | 1 - Desenvolvimento Social | Taxa de matrículas na pre-escola e creche - INEP 2023/Censo 2022                                                        | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DH1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=NboSkcs4t1dm) |
+
+## Desenvolvimento Econômico Integrado
+
+| Nome Original                                                                                              | Dimensão                                | Nome Indicador Final                                                                                           | Link Excel                                                                                                                    | Link Notebook                                                                                             |
+|:-----------------------------------------------------------------------------------------------------------|:----------------------------------------|:---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
+| Taxa de crimes de oportunidade                                                                             | 2 - Desenvolvimento Econômico Integrado | Taxa de crimes de oportunidade por 100 mil hab - Secretaria da Segurança Pública 2024                          | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CK1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=syJ5oEww15YV) |
+| Oferta de emprego formal por distrito (empregos / habitante)                                               | 2 - Desenvolvimento Econômico Integrado | % Oferta de emprego formal por distrito - RAIS 2021                                                            | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CL1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=qibRhb35ESku) |
+| % de empregados sem carteira - PEA                                                                         | 2 - Desenvolvimento Econômico Integrado | % De Empregados Sem Carteira - Origem Destino 2023                                                             | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CM1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=g1vaewjt23Qx) |
+| % de população a até 1 km de equipamentos de cultura                                                       | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 1 km de uma equipamentos de cultura - Censo 2022/GeoSampa 2025                  | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CN1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=pUaAK0bNbOmK) |
+| % de pessoas no distrito a até 1 km de uma estação de metrô                                                | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 1 km de uma estação de metrô - Censo 2022/ GeoSampa 2025                        | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CO1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=jZGrhX3qTjd8) |
+| % de pessoas no distrito a até 1 km metros de um corredor                                                  | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 1 km de um corredor - Censo 2022/GeoSampa 2025                                  | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CP1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=4k37zMm9YT-9) |
+| % de pessoas com até 30 minutos de viagem casa x trabalho                                                  | 2 - Desenvolvimento Econômico Integrado | % De Pessoas Com Até 30 Minutos De Viagem Casa X Trabalho - Origem Destino 2023                                | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CT1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=65lhFjCc1mYD) |
+| Óbitos no trânsito por 100 mil habitantes                                                                  | 2 - Desenvolvimento Econômico Integrado | Óbitos no trânsito por 100 mil habitantes - Censo 2022/Infosiga 2024                                           | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CU1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=W7hVDne51sSB) |
+| % de população a até 1 km de equipamentos de esporte em áreas públicas                                     | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 1 km de equipamentos de esporte - Censo 2022 / GeoSampa 2025                    | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CX1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=5_WGy37S1gtt) |
+| % pretos+pardos a até 300 metros de uma ciclovia no distrito / % pretos+pardos do distrito                 | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 300 metros de uma ciclovia pretos e pardos - Censo 2022/ GeoSampa 2025          | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CY1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=ySbT5zPbBxMt) |
+| % pretos+pardos no distrito a até 1 km metros de uma corredor / % pretos+pardos do distrito                | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 1 km metros de uma corredor pretos e pardos - Censo 2022/ GeoSampa 2025         | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CZ1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=_a4THIBrJZMU) |
+| % população que acessa ao menos um ponto de parada da rede de transporte diurna em até 300 m em linha reta | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 300 metros de ponto de parada da rede de transporte - Censo 2022/ GeoSampa 2025 | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DA1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=W91SxMQSWN2G) |
+| % dos ocupados com superior completo - 18 anos ou mais                                                     | 2 - Desenvolvimento Econômico Integrado | % Dos Ocupados Com Superior Completo - 18 Anos Ou Mais - Origem Destino 2023                                   | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DB1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Q09kbgn5Wd-K) |
+| % de domicílios particulares com rendimento nominal mensal de até 1/2 S.M.                                 | 2 - Desenvolvimento Econômico Integrado | % De Domicílios Particulares Com Rendimento Nominal Mensal De Até 1/2 S.M - Origem Destino 2023                | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DC1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=CoeGJmuAWqUm) |
+| % domicílios particulares com rendimento nominal mensal de até 1/4 S.M.                                    | 2 - Desenvolvimento Econômico Integrado | % De Domicílios Particulares Com Rendimento Nominal Mensal De Até 1/4 S.M - Origem Destino 2023                | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DD1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=P7KoHkVwtpUt) |
+| Renda domiciliar per capita                                                                                | 2 - Desenvolvimento Econômico Integrado | Renda Domiciliar Per Capita - Origem Destino 2023                                                              | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DE1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=zstwoGK7kmOA) |
+| Incidência distrital de chefe de família mulher sem rendimento                                             | 2 - Desenvolvimento Econômico Integrado | Incidência Distrital De Chefe De Família Mulher Sem Rendimento - Origem Destino 2023                           | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DF1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Xmw8Rtm-uH_o) |
+| % pretos+pardos no distrito a até 1 km de uma estação de metrô / % pretos+pardos do distrito               | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 1 km de uma estação de metrô pretos e pardos - Censo 2022/ GeoSampa 2025        | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DI1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=stt8NJjIuhQv) |
+| % de pessoas até 300 metros de uma ciclovia no distrito                                                    | 2 - Desenvolvimento Econômico Integrado | % da população distrital a até 300 metros de uma ciclovia - Censo 2022/ GeoSampa 2025                          | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DK1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=l5tM7R4VhE_b) |
+| % de empregos com nível superior                                                                           | 2 - Desenvolvimento Econômico Integrado | % de empregos com nível superior - RAIS 2021                                                                   | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DM1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=jdxjh4xqaqqK) |
+| % de pessoas com até 30 minutos de viagem casa x educação                                                  | 2 - Desenvolvimento Econômico Integrado | % De Pessoas Com Até 30 Minutos De Viagem Casa X Educação - Origem Destino 2023                                | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DQ1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=-pwWQ_VMmKAP) |
+| % de pessoas com até 30 minutos de viagem casa x saúde                                                     | 2 - Desenvolvimento Econômico Integrado | % De Pessoas Com Até 30 Minutos De Viagem Casa X Saúde - Origem Destino 2023                                   | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DR1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=4XvGJjs4mKeN) |
+
+## Desenvolvimento Urbano Sustentável
+
+| Nome Original                                                                 | Dimensão                               | Nome Indicador Final                                                                    | Link Excel                                                                                                                    | Link Notebook                                                                                             |
+|:------------------------------------------------------------------------------|:---------------------------------------|:----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
+| % da população que vive em domicílios urbanos sem o serviço de coleta de lixo | 3 - Desenvolvimento Urbano Sustentável | Proporção que vive em domicílios urbanos com o serviço de coleta de lixo - Censo 2022   | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=AA1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=gyMIqrScvZav) |
+| % de domicílios em favelas e comunidades urbanas                              | 3 - Desenvolvimento Urbano Sustentável | % De Domicílios Em Favelas E Comunidades Urbanas - Censo 2022                           | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CQ1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=wFC76JIxjMzT) |
+| Habitantes por domicílio                                                      | 3 - Desenvolvimento Urbano Sustentável | % Habitantes por domicílio - Censo 2022                                                 | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CR1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=MlvFF-lTcoZk) |
+| % de domicílios conectados à rede / total de domicílios do distrito (ICE)     | 3 - Desenvolvimento Urbano Sustentável | % De Domicílios Conectados À Rede de água - Censo 2022                                  | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CS1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=flEjhIANiRDf) |
+| Área verde pública por habitante (m²/hab)                                     | 3 - Desenvolvimento Urbano Sustentável | Área verde pública por habitante (m²/hab) - Censo 2022/GeoSampa 2025                    | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CV1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=YoYNieWX1Per) |
+| % dos domicílios em áreas de risco (R3 e R4) / total de domicílios            | 3 - Desenvolvimento Urbano Sustentável | % dos domicílios em áreas de risco (R3 e R4) - Censo 2020/GeoSampa 2025                 | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=CW1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=n1hrcxqBUqqm) |
+| % da população a menos de 1 km de parques urbanos e lineares                  | 3 - Desenvolvimento Urbano Sustentável | % da população a menos de 1 km de parques urbanos e lineares - Censo 2022/GeoSampa 2025 | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DG1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=PJ8GoVJbTAnF) |
+| % de domicílios conectados à rede (Esgoto)                                    | 3 - Desenvolvimento Urbano Sustentável | % De Domicílios Conectados À Rede de esgoto - Censo 2022                                | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DJ1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=RMkxsRJBY9dM) |
+| Domicílios não próprios (alugado + cedido)                                    | 3 - Desenvolvimento Urbano Sustentável | % De Domicílios Não Próprios (Alugado + Cedido) - Origem Destino 2023                   | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DL1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=C1qtWBlMko8m) |
+| Cobertura vegetal per capita (m²/hab)                                         | 3 - Desenvolvimento Urbano Sustentável | Cobertura vegetal per capita (m²/hab) - Censo 2022/GeoSampa 2025                        | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DN1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=UxUB3wWxuUHH) |
+| Área de inundação no território / total de área do distrito                   | 3 - Desenvolvimento Urbano Sustentável | Áreas de inundação no território - Censo 2022/GeoSampa 2025                             | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DO1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=KbEEsZd78zxc) |
+| Área de alagamento / área do distrito                                         | 3 - Desenvolvimento Urbano Sustentável | Áreas de alagamento no território - Censo 2022/GeoSampa 2025                            | [:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672&range=DP1) | [:link:](https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=ZSbTtzBDoVVV) |
 
-### Proporção de pessoas responsáveis de 10 a 29 anos no distrito
-
-No [Censo 2022][censo-2022] a faixa mais proxima que temos de dados é de 12 a 24 anos
-
-### Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito
-
-No [Censo 2022][censo-2022] não encontramos um campo com a classicação de Pessoa responsável pelo domicílio, Sexo feminino com filhos e sem fundamental completo.
-Coletei o dados de Pessoa responsável pelo domicílio, Sexo feminino com mais de 15 anos e que não sabe ler e escrever no lugar.
-
-### Mulheres responsáveis com menos de 30 anos no distrito
-
-No [Censo 2022][censo-2022] dados vão de 15 a 29 anos
-
-### Bebês nascidos de mães adolescentes no distrito
-
-Sinto que esse indicador acaba sendo muito proximo do `Mulheres de 10 a 17 anos que tiveram filhos no distrito`
-
-## Desenvolvimento Urbano
-
-|Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
-|:-:|:-:|:-:|:-:|:-:|
-Óbitos no trânsito por km de via|X|X|X|X|
-% de empregados sem carteira - PEA|X|X|X|X|
-% de pessoas com até 30 minutos de viagem casaXeducação|X|X|X|X|
-% de pessoas com até 30 minutos de viagem casaXsaúde|X|X|X|X|
-% de pessoas com até 30 minutos de viagem casaXtrabalho|X|X|X|X|
-% de população a até 1 km de equipamentos de cultura|X|X|X|X|
-% de população a até 1 km de equipamentos de esporte em áreas públicas|X|X|X|X|
-% dos ocupados com superior completo - 18 anos ou mais|X|X|X|X|
-% pretos+pardos a até 300 metros de uma ciclovia no distrito / % pretos+pardos do distrito|X|X|X|X|
-% pretos+pardos no distrito a até 1 km de uma estação de metrô / % pretos+pardos do distrito|X|X|X|X|
-% pretos+pardos no distrito a até 1 km metros de uma corredor / % pretos+pardos do distrito|X|X|X|X|
-% população que acessa ao menos um ponto de parada da rede de transporte diurna em até 300 m em linha reta|X|X|X|X|
-Habitantes por domicílio|X|X|X|X|
-% de domicílios em favelas e comunidades urbanas|X|X|X|X|
-Incidência distrital de chefe de família mulher sem rendimento|X|X|X|X|
-Domicílios não próprios (alugado + cedido)|X|X|X|X|
-Oferta de emprego formal por distrito (empregos / habitante)|X|X|X|X|
-% de domicílios particulares com rendimento nominal mensal de até 1/2 S.M.|X|X|X|X|
-% domicílios particulares com rendimento nominal mensal de até 1/4 S.M.|X|X|X|X|
-% de empregos com nível superior|X|X|X|X|
-Renda domiciliar per capita|X|X|X|X|
-Taxa de crimes de oportunidade|X|X|X|X|
-% de pessoas até 300 metros de uma ciclovia no distrito|X|X|X|X|
-% de pessoas no distrito a até 1 km de uma estação de metrô|X|X|X|X|
-% de pessoas no distrito a até 1 km metros de um corredor|X|X|X|X|
-
-## Resiliência Climática e Sustentabilidade
-
-|Indicador|Nome no Excel|Link Notebook|Link Excel|Comentario|
-|:-:|:-:|:-:|:-:|:-:|
-% da população distrital a até 1 km de uma UBS|% da população distrital a até 1 km de uma UBS|[:link:][indicadores_12]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AT1)|
-% da população distrital a até 5 km de um Hospital|% da população distrital a até 5 km de um Hospital|[:link:][indicadores_13]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AV1)|
-% da população que vive em domicílios urbanos sem o serviço de coleta de lixo|Proporção que vive em domicílios urbanos com o serviço de coleta de lixo - Censo 2022|[:link:][indicadores_14]|[:link:](https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?pli=1&gid=149366672#gid=149366672&range=AA1)|[Detalhe](#-da-população-que-vive-em-domicílios-urbanos-sem-o-serviço-de-coleta-de-lixo)|
-Anos Potenciais de Vida Perdidos – APVP|X|X|X|X|
-Área de inundação no território / total de área do distrito|X|X|X|X|
-Área verde pública por habitante (m²/hab)|X|X|X|X|
-% de domicílios conectados à rede / total de domicílios do distrito (ICE)|X|X|X|X|
-Internações por causas sensíveis à atenção básica por local de residência por 100 mil hab|X|X|X|X|
-Área de alagamento / área do distrito|X|X|X|X|
-Cobertura vegetal per capita (m²/hab)|X|X|X|X|
-% da população a menos de 1 km de parques urbanos e lineares|X|X|X|X|
-% dos domicílios em áreas de risco (R3 e R4) / total de domicílios|X|X|X|X|
-
-### % da população que vive em domicílios urbanos sem o serviço de coleta de lixo
-
-No [Censo 2022][censo-2022] não tem um campo para a população sem serviço de coleta. Achei melhor coletar a porpoção que tem o serviço. Porque existe um dado para isso. Calcular pessoas sem o serviço entra filtros pouco claros que podem gerar mais erro
-
-# Todos Indicadores
-
-## [Censo 2022][censo-2022]
-
-- [x] População total
-- [x] ~~Mulheres chefes de família e com filhos menores de 15 anos(Não encontrado no Censo)~~
-- [x] % de pessoas de 65 anos ou mais -> [Codigo][indicadores_8]
-- [x] Total de pessoas de 65 anos ou mais -> [Codigo][indicadores_8]
-- [x] ~~% de mães chefes de família, sem fundamental completo e com filho menor de 15 anos de idade(Não encontrado no Censo)~~
-- [x] % Pessoa responsável pelo domicílio, Sexo feminino, 15 anos ou mais, Morador não sabe ler e escrever -> [Codigo][indicadores_1]
-- [x] Cor
-- [x] Proporção de crianças de 0 a 4 anos na população
-- [x] ~~Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos (Não encontrado no Censo)~~
-- [x] Proporção de mulheres responsáveis pelo domicílio - Incidência distrital de chefe de família mulher (Sera mesma coisa?)
-- [X] Incidência distrital de longevidade (pessoas acima de 70 anos).(Parecida com "% de pessoas de 65 anos ou mais") -> [Codigo][indicadores_8]
-- [x] Proporção de pessoas responsáveis de 12 a 24 anos(Proporção de pessoas responsáveis de 10 a 29 anos) ->  [Codigo][indicadores_3]
-- [x] Proporção de mulheres reponsáveis com menos de 15 a 29 anos -> [Codigo][indicadores_4]
-- [x] Proporção de pessoas responsáveis não alfabetizadas
-- [x] % da população que vive em domicílios urbanos com o serviço de coleta de lixo -> [Codigo][indicadores_14]
-
-
-[censo-2022]: https://www.ibge.gov.br/estatisticas/sociais/trabalho/22827-censo-demografico-2022.html?=&t=downloads
-
-
-## Datasus ( [SIM 2022][ms_sim] e [SINASC 2023][sinasc])
-
-- [x] Mortalidade até 1 ano de idade
-- [x] Mortalidade até 5 anos de idade
-- [x] Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal -> [Codigo][indicadores_6]
-- [x] Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) ->  [Codigo][indicadores_2]
-- [x] Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) -> [Codigo][indicadores_5]
-- [x] Mortalidade materna -> [Codigo][indicadores_9]
-- [x] Idade média ao morrer
-- [x] ~~Taxa padronizada de mortalidade por Covid-19(Não encontrado)~~
-- [ ] Óbitos Evitáveis (Necessario a extração dos Codigos CID evitaveis)
-- [x] Taxa de mortalidade infantil (por mil nascidos vivos) - Coeficiente de mortalidade infantil (óbitos por 1.000 nascidos vivos) -> [Codigo][indicadores_10]
-- [x] Anos Potenciais de Vida Perdidos – APVP
-- [ ] Internações por causas sensíveis à atenção básica
-
-
-[sinasc]: https://basedosdados.org/dataset/48ccef51-8207-40ee-af5b-134c8ac3fb8c?table=80359f9a-8189-4693-bdf7-ebf7be0d2fff
-[ms_sim]: https://basedosdados.org/dataset/5beeec93-cbf3-43f6-9eea-9bee6a0d1683?table=dea823a5-cad7-4014-b77c-4aa33b3b0541
-
-
-## [Censo Escolar 2023][mapadesigualdadesaopaulo2024]
-
-- [x] % de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental -> [Codigo][indicadores_7]
-
-[mapadesigualdadesaopaulo2024]: https://institutocidadessustentaveis.shinyapps.io/mapadesigualdadesaopaulo2024/
-
-## Indicadores Espaciais
-
-- [x] % da população distrital a até 1 km de uma UBS -> [Codigo][indicadores_12]
-- [x] % da população distrital a até 5 km de um Hospital -> [Codigo][indicadores_13]
-
-
-## [Mapa Desigualdade São Paulo 2024][mapadesigualdadesaopaulo2024]
-
-- [x] Coeficiente de mulheres vítimas de violência
-- [x] Coeficiente de pessoas vítimas de violência de racismo
-
-
-[mapadesigualdadesaopaulo2024]: https://institutocidadessustentaveis.shinyapps.io/mapadesigualdadesaopaulo2024/
-
-
-<!-- Políticas Sociais -->
-
-<!-- Mães chefes de família sem fundamental completo e com filho menor de 15 no distrito -->
-[indicadores_1]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=asIcppjP882W
-
-<!-- Mulheres de 10 a 17 anos que tiveram filhos no distrito | Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) -->
-[indicadores_2]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=eK95KzpPMSwT
-
-<!-- Proporção de pessoas responsáveis de 10 a 29 anos -->
-[indicadores_3]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=iLHtxICXF1wj
-
-<!-- Proporção de mulheres responsáveis pelo domicílio com menos de 30 anos -->
-[indicadores_4]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=lTz1c2SoQocK
-
-<!-- Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) -->
-[indicadores_5]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=ycFgO4bBOO1a
-
-<!-- Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal -->
-[indicadores_6]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=xOwdN9rCL2Ur
-
-<!-- % de matrículas no ensino em tempo integral Fundamental / total de matrículas do ensino fundamental -->
-[indicadores_7]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=ylENxfdGdLzP
-
-<!-- % de pessoas de 65 anos ou mais -->
-[indicadores_8]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=8ekPcHrWzgxd
-
-<!-- Mortalidade materna -->
-[indicadores_9]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=6lKhpWDsPzpZ
-
-<!-- Mortalidade infantil (óbitos por 1.000 nascidos vivos) -->
-[indicadores_10]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=9E8DApdVouZQ
-
-<!-- Proporção de pessoas responsáveis não alfabetizadas -->
-[indicadores_11]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=-zASKHo-X2Wx
-
-<!-- % da população que vive em domicílios urbanos sem o serviço de coleta de lixo -->
-[indicadores_14]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=j9tKAV8qvaEW
-
-<!-- Taxa de distorção idade-série no Ensino Fundamental da Rede Municipal de Ensino (%) -->
-
-[indicadores_15]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=9ri0LAVJ01pX
-
-<!-- Taxa de matrículas de crianças por raça e cor (pessoas pardas matriculadas / total de pessoas pardas em idade escolar no distrito) -->
-[indicadores_16]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=VrjAg-3V8WhQ
-
-<!-- Taxa de matrículas de crianças por raça e cor (pessoas pretas matriculadas / total de pessoas pretas em idade escolar no distrito) -->
-[indicadores_17]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=RApEUj3TDihv
-
-<!-- Taxa de matrículas de crianças por raça e cor (pessoas amarelas matriculadas / total de pessoas amarelas em idade escolar no distrito) -->
-[indicadores_18]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Q2QpG5gn-5OU
-
-<!-- Taxa de matrículas de crianças por raça e cor (pessoas brancas matriculadas / total de pessoas brancas em idade escolar no distrito) -->
-[indicadores_19]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=h9jHek43CqKc
-
-<!-- Taxa de matrículas de crianças por raça e cor (pessoas indigenas matriculadas / total de pessoas indigenas em idade escolar no distrito) -->
-[indicadores_20]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=jUC9xqsIE-mq
-
-
-<!-- Proporção de nascidos vivos de mães que fizeram 7 ou mais consultas de pré natal - Tabnet DATASUS 2024 -->
-[indicadores_21]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=uAGYq3rLwomF&uniqifier=1
-
-<!-- Proporção de bebês com baixo peso ao nascer (menos de 2,5 kg) - Tabnet DATASUS 2024 -->
-[indicadores_22]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Sfeenf2N7Zfr&uniqifier=1
-
-<!-- Proporção de bebês nascidos vivos de mães adolescentes (10 a 19 anos) - Tabnet DATASUS 2024 -->
-[indicadores_23]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=IlPIvhaDMOGv&uniqifier=1
-
-<!-- Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos iniciais (%) -->
-[indicadores_24]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=gAebiUlCo9gq
-
-<!-- Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos finais (%) -->
-[indicadores_25]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=7aDTrY-DpFTB
-
-<!-- Incidência distrital da presença da população de rua na cidade de São Paulo - Censo de População de Rua 2021 -->
-[indicadores_26]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=syJ5oEww15YV
-
-<!-- Taxa de homicídio por 100 mil hab - Secretaria da Segurança Pública 2024 -->
-[indicadores_27]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=z3yKSAMJLtOC
-
-<!-- % de 18 a 22 anos com médio completo - Origem Destino 2023 -->
-[indicadores_28]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=plOBATJm6v8t
-
-<!-- Quantidade de equipamentos educacionais por número de alunos matriculados - INEP 2023 -->
-[indicadores_29]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=vRi3gtn_5uUi
-
-<!-- Número de registro de agravos de notificação de violência contra a mulher por 100 mil mulheres - SINAN 2023 -->
-[indicadores_30]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=s_wgCAfRBO0Z
-
-<!-- Número de registro de agravos de notificação de violência contra a pretos por 100 mil pessoas pretas - SINAN 2023 -->
-[indicadores_31]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=fV8UxE8lcTb-
-
-<!-- % Óbitos Evitáveis - SIM 2022 -->
-[indicadores_32]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=qibRhb35ESku
-
-<!-- Resiliência Climática e Sustentabilidade -->
-
-<!-- % da população distrital a até 1 km de uma UBS -->
-[indicadores_12]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=cBf37L5ein3R
-
-<!-- % da população distrital a até 5 km de um Hospital -->
-[indicadores_13]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=zuqhT1AXfgcL
