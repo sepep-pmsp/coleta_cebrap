@@ -1,13 +1,31 @@
+<p align="center">
+    <a href="https://basedosdados.org">
+        <img src="https://avatars.githubusercontent.com/u/137204683" width="240" alt="São Paulo">
+    </a>
+</p>
+
+<p align="center">
+    <em>Secretaria Executiva de Planejamento e Entregas Prioritárias - Prefeitura de São Paulo</em>
+</p>
+
 # Documentação dos indicadores
 Documentação de indicadores - [`Dimensões SP`][politicas-sociais-notebook]
 
-Mapeamento dos indicadores ➡️ [🗺️](https://docs.google.com/spreadsheets/d/1Vz0dZ6n1PKcYgvQMSBRcYdbSVWHxgbGL/edit?pli=1&gid=250491946#gid=250491946)
+Mapeamento dos indicadores ➡️ [🗺️][mapeamento]
+
+Apresentação Resultados Desenvolvimento Social(Previa)  ➡️ [📺][apresentacao_desenvolvimento_social]
+
+Desenvolvimento Econômico Integrado(Previa) ➡️ [📺][apresentacao_desenvolvimento_economico_integrado]
 
 [politicas-sociais-notebook]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Ry7c-tpeunMB
 [mapeamento]: https://docs.google.com/spreadsheets/d/1Vz0dZ6n1PKcYgvQMSBRcYdbSVWHxgbGL/edit?pli=1&gid=250491946#gid=250491946
+[apresentacao_desenvolvimento_social]: https://docs.google.com/presentation/d/1UUuJW-jGnghgBpwnqBGado8oh7V7XAHf/edit?usp=drive_link&ouid=115854210799010302684&rtpof=true&sd=true
+[apresentacao_desenvolvimento_economico_integrado]: https://docs.google.com/presentation/d/1pJrM74A_eZIAaYyZWEjDUMdDjhqfgbgO/edit?usp=sharing&ouid=115854210799010302684&rtpof=true&sd=true
+
 
 # Index
-- [Dimensões](#dimensões): 
+- [Dimensões](#dimensões):
+    - [Nota de Alteração: Substituição de Caracteres Especiais](#nota-de-alteração-substituição-de-caracteres-especiais) 
     - [Desenvolvimento Social](#desenvolvimento-social)
     - [Desenvolvimento Econômico Integrado](#desenvolvimento-econômico-integrado)
     - [Desenvolvimento Urbano Sustentável](#desenvolvimento-econômico-integrado-sustentável)
