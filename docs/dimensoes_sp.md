@@ -20,6 +20,14 @@ Cada um desses temas aborda áreas essenciais para o desenvolvimento e o bem-est
 
 Com essa organização, os indicadores se tornam mais acessíveis e facilitam a análise das diferentes dimensões que impactam o desenvolvimento social, econômico e ambiental, promovendo uma visão integrada e mais eficaz para as tomadas de decisão.
 
+## Nota de Alteração: Substituição de Caracteres Especiais
+
+As colunas `'Nome Indicador Final'` e `'Nome Original'` tiveram seus caracteres `|` substituídos por `/`.
+
+Esta alteração foi necessária porque o caractere `|` tem um significado especial no markdown e poderia causar problemas ao passar os nomes das colunas para a formatação markdown. A substituição por `/` mantém a legibilidade dos nomes enquanto evita conflitos com a sintaxe markdown.
+
+Esta modificação não afeta a funcionalidade dos dados, apenas a representação dos nomes das colunas quando utilizados em contextos markdown.
+
 ## Desenvolvimento Social
 | Nome Original                                                                                                                                                                                                                     | Dimensão                   | Nome Indicador Final                                                                                                    | Link Celula                                                                                                                   | Link Notebook                                                                                             |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
