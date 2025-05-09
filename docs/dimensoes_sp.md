@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://capital.sp.gov.br/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sepep-pmsp/coleta_cebrap/blob/docs_images/docs/images/logo_sp_escuro.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/sepep-pmsp/coleta_cebrap/blob/docs_images/docs/images/logo_sp_claro.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sepep-pmsp/coleta_cebrap/blob/main/docs/images/logo_sp_escuro.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/sepep-pmsp/coleta_cebrap/blob/main/docs/images/logo_sp_claro.png">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="340" alt="São Paulo">
     </picture>
 </p>
