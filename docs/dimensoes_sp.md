@@ -14,13 +14,15 @@
 # Documentação dos indicadores
 Documentação de indicadores - [`Dimensões SP`][notebook]
 
+Notebook dos indicadores ➡️ [📓][notebook]
+
 Mapeamento dos indicadores ➡️ [🗺️][mapeamento]
 
 Apresentação Resultados Desenvolvimento Social(Previa)  ➡️ [📺][apresentacao_desenvolvimento_social]
 
 Desenvolvimento Econômico Integrado(Previa) ➡️ [📺][apresentacao_desenvolvimento_economico_integrado]
 
-[notebook]: https://colab.research.google.com/drive/14jIloiip7s8xnTffYS55Q0lF8Etwz5W5#scrollTo=Ry7c-tpeunMB
+[notebook]: https://colab.research.google.com/drive/1ld_peEe_ZDt8RrAheHWRHkZnJQ0MDZPe
 [mapeamento]: https://docs.google.com/spreadsheets/d/1Vz0dZ6n1PKcYgvQMSBRcYdbSVWHxgbGL/edit?pli=1&gid=250491946#gid=250491946
 [apresentacao_desenvolvimento_social]: https://docs.google.com/presentation/d/1UUuJW-jGnghgBpwnqBGado8oh7V7XAHf/edit?usp=drive_link&ouid=115854210799010302684&rtpof=true&sd=true
 [apresentacao_desenvolvimento_economico_integrado]: https://docs.google.com/presentation/d/1pJrM74A_eZIAaYyZWEjDUMdDjhqfgbgO/edit?usp=sharing&ouid=115854210799010302684&rtpof=true&sd=true
