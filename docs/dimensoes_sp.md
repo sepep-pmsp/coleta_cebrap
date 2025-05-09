@@ -22,10 +22,15 @@ Apresentação Resultados Desenvolvimento Social(Previa)  ➡️ [📺][apresent
 
 Desenvolvimento Econômico Integrado(Previa) ➡️ [📺][apresentacao_desenvolvimento_economico_integrado]
 
+Desenvolvimento Urbano Sustentável(Previa) ➡️ [📺][apresentacao_desenvolvimento_urbano_sustentavel]
+
 [notebook]: https://colab.research.google.com/drive/1ld_peEe_ZDt8RrAheHWRHkZnJQ0MDZPe
 [mapeamento]: https://docs.google.com/spreadsheets/d/1Vz0dZ6n1PKcYgvQMSBRcYdbSVWHxgbGL/edit?pli=1&gid=250491946#gid=250491946
 [apresentacao_desenvolvimento_social]: https://docs.google.com/presentation/d/1UUuJW-jGnghgBpwnqBGado8oh7V7XAHf/edit?usp=drive_link&ouid=115854210799010302684&rtpof=true&sd=true
 [apresentacao_desenvolvimento_economico_integrado]: https://docs.google.com/presentation/d/1pJrM74A_eZIAaYyZWEjDUMdDjhqfgbgO/edit?usp=sharing&ouid=115854210799010302684&rtpof=true&sd=true
+[apresentacao_desenvolvimento_urbano_sustentavel]: https://docs.google.com/presentation/d/1DAXjjU025jOhZj6j1nE90oaTw25dLzTr/edit?usp=sharing&ouid=115854210799010302684&rtpof=true&sd=true
+
+
 
 
 # Index
