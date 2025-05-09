@@ -37,8 +37,8 @@ Tema|Notebook|Parquet|Excel - Google|Documentação|
 [Censo-parquet]: https://drive.google.com/file/d/1WNv6iCmwaJzcXZvR2eHJSUcJvLUgnB1p/view?usp=sharing
 [Censo-Excel-Google]: https://docs.google.com/spreadsheets/d/1DmwjVZN6-JCkBcyCk9vjl8IHpKY3sJ4Q/edit?usp=sharing&ouid=115854210799010302684&rtpof=true&sd=true
 
-[dimensoes_sp-notebook]: notebooks/colab/Pol%C3%ADticas%20Sociais/%5Bcebrap%5Dpoliticas_sociais.ipynb
-[dimensoes_sp-excel]: https://docs.google.com/spreadsheets/d/1c9SFkieO3DxosE4dspzBH3siB6c-j2UP/edit?gid=149366672#gid=149366672
+[dimensoes_sp-notebook]: https://colab.research.google.com/drive/1ld_peEe_ZDt8RrAheHWRHkZnJQ0MDZPe#scrollTo=jbORmJfEkJ6Z&uniqifier=1
+[dimensoes_sp-excel]: https://docs.google.com/spreadsheets/d/1ECb3OCRM0CUw2BWwhHcS8TOwMsdDhNNi/edit?gid=650239202#gid=650239202
 [dimensoes_sp-doc]: docs/dimensoes_sp.md
 
 [Inep-notebook]: notebooks/colab/[cebrap]coleta_dados_educacao.ipynb
